@@ -1,0 +1,2819 @@
+OBJECTID,shortName,cableSystem,owner,status,region
+1,Americas II-12,Americas II,AT&T Corp,In Service,East Coast
+2,AU-Aleutian A,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+3,AU-Aleutian B,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+4,AU-Aleutian C,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+5,AU-Aleutian D,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+6,AU-Aleutian E,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+7,AU-Aleutian F,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+8,AU-Aleutian G,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+9,AU-Aleutian H,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+10,AU-Aleutian I,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+11,AU-Aleutian J,AU Aleutian Submarine Cable System,GCI Communication Corp,In Service,Pacific Northwest
+12,Curie 1.1,Curie,GU Holdings Inc,In Service,West Coast
+13,Eversource,Eversource HEEC Cable,Eversource Energy,In Service,East Coast
+14,Firmina,Firmina,GU Holdings Inc,In Service,East Coast
+15,Grace Hopper,Grace Hopper,GU Holdings Inc,In Service,East Coast
+16,HIFN,Hawaiian Islands Fiber Network,Hawaiian Telcom Inc,In Service,Pacific Islands
+17,Jupiter,Jupiter System,NTT America Inc,In Service,West Coast
+18,PLCN 1.1.1,Pacific Light Cable Network,GU Holdings Inc,In Service,West Coast
+19,RW 1,Revolution Wind OSS1,Orsted,Under Construction,East Coast
+20,RW 3,Revolution Wind OSS1,Orsted,Under Construction,East Coast
+21,RW 2,Revolution Wind OSS2,Orsted,Under Construction,East Coast
+22,Seabras 1,Seabras 1,Seabras 1 USA LLC,In Service,East Coast
+23,SFEC,South Fork Wind Export Cable,Orsted,In Service,East Coast
+24,VW1 East,Vineyard Wind 1 HVDC Cable EAST,Avangrid,In Service,East Coast
+25,VW1 West,Vineyard Wind 1 HVDC Cable WEST,Avangrid,In Service,East Coast
+26,AMX1,America Movil Submarine Cable System,América Móvil,In Service,East Coast
+27,PCCS 2A,Pacific Caribbean Cable System,Telxius,In Service,Caribbean
+28,Taino-Carib,Taino-Carib Cable System,AT&T Corp,In Service,Caribbean
+29,STSC,"Saint Thomas - Saint Croix Cable
+System",AT&T Corp,In Service,Caribbean
+30,STSC,"Saint Thomas - Saint Croix Cable
+System",AT&T Corp,In Service,Caribbean
+31,Columbus II,Columbus II Cable System,AT&T Corp,In Service,Caribbean
+32,Americas 1 North,Americas 1 North - Columbus II B,AT&T Corp,In Service,Caribbean
+33,Americas 1 South,Americas 1 South,AT&T Corp,Out of Service,Caribbean
+34,USWTR,Undersea Warfare Training Range,Department of Defense,In Service,East Coast
+35,TAT 13-G1,TAT 13,AT&T Corp,Out of Service,East Coast
+36,AEC 1,AEConnect-1 Cable System,Aqua Comms Americas,In Service,East Coast
+37,,,,,Gulf of America
+38,GTMO PR,GTMO PR,Department of Defense,In Service,Caribbean
+39,Americas II,Americas II,Liberty Latin America Ltd,In Service,Caribbean
+40,SAC,South American Crossing,Cirion Technologies Solutions LLC,In Service,Caribbean
+41,SCF,Southern Caribbean Fiber (Antillas Crossing),Antilles Crossing - St. Croix Inc,,Caribbean
+42,Americas II,Americas II,Liberty Latin America Ltd,,Caribbean
+43,PCCS 2,Pacific Caribbean Cable System,Telxius,In Service,Caribbean
+44,SAm G,South America 1,Telxius,In Service,Caribbean
+45,GCN,Global Caribbean Network,Global Caribbean Network,In Service,Caribbean
+46,SCF,Southern Caribbean Fiber (Antilles Crossing),Antilles Crossing - St. Croix Inc,In Service,Caribbean
+47,PAC,Pan American Crossing,Cirion Technologies Solutions LLC,In Service,Caribbean
+48,Americas II,Americas II,Liberty Latin America Ltd,In Service,Caribbean
+49,Antillas 1,Antillas 1,AT&T Corp,In Service,Caribbean
+50,,,,,Caribbean
+51,SAm,South America 1,Telxius,In Service,Caribbean
+52,PAN-AM,Pan American Cable System,AT&T Corp,Out of Service,Caribbean
+53,SMPR 1,Saint Maarten Puerto Rico 1,SMITCOMS Inc,In Service,Caribbean
+54,Columbus II,Columbus II Cable System,AT&T Corp,Out of Service,Caribbean
+55,MAC 1-3,Mid-Atlantic Crossing,Lumen Technologies Inc,In Service,Caribbean
+56,SCF,Southern Caribbean Fiber,Digicel Group,In Service,Caribbean
+57,SCF,Southern Caribbean Fiber,Digicel Group,In Service,Caribbean
+58,AMX1,America Movil Submarine Cable System,América Móvil,In Service,East Coast
+59,Americas II,Americas II,Liberty Latin America Ltd,In Service,Caribbean
+60,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+61,Global West G,Global West,Zayo Group Holdings Inc,In Service,West Coast
+62,Global West E,Global West,Zayo Group Holdings Inc,In Service,West Coast
+63,PAC 1,Pan American Crossing,Level 3,In Service,West Coast
+64,PC 1S,Pacific Crossing,PC Landing Corp,In Service,West Coast
+65,HAW 3B,Hawaii 3,AT&T Corp,Out of Service,West Coast
+66,TPC 5-G,Trans-Pacific Cable,AT&T Corp,In Service,West Coast
+67,JUS 1,Japan U.S. Cable Network,Verizon,In Service,West Coast
+68,HAW 5,Hawaii 5,AT&T Corp,Out of Service,West Coast
+69,SC D,Southern Cross,SCCN and Verizon,In Service,West Coast
+70,HAW 4,Hawaii 4,AT&T Corp,Out of Service,West Coast
+71,HAW 1 W-E,Hawaii 1 West East,AT&T Corp and Hawaiian Telephone Company,In Service,West Coast
+72,TPC 4-B1,Trans-Pacific Cable,AT&T Corp,Out of Service,West Coast
+73,SOSUS,SOSUS,Department of Defense,Out of Service,West Coast
+74,ATOC,ATOC Pioneer Seamount Cable,"SIO-UCSD, APL-UW, UM, MIT",Out of Service,West Coast
+75,Global West F,Global West,Zayo Group Holdings Inc,In Service,West Coast
+76,Jupiter 2,Jupiter System,NTT America Inc,In Service,West Coast
+77,HAW 1 E-W,Hawaii 1 East West,AT&T and Hawaiian Telephone Company,Out of Service,West Coast
+78,SFBFOC,San Fransico Bay Fiber Optic Cable,Bandwidth Infrastructure Group LLC,In Service,West Coast
+79,Echo,Echo Cable System,Edge Cable Holdings USA LLC and GU Holdings Inc,In Service,West Coast
+80,JUNO,JUNO,Seren Juno Network America Inc,In Service,West Coast
+81,JUS 2,Japan U.S. Cable Network,AT&T Corp,Out of Service,Pacific Islands
+82,SCCN F,Southern Cross Cable Network,Southern Cross Cables Limited,In Service,Pacific Islands
+83,SEA U.S. 6,Southeast Asia U.S.,GTI Corp,In Service,Pacific Islands
+84,SEA U.S.,Southeast Asia U.S.,GTI Corp,In Service,Pacific Islands
+85,Endeavor,Telstra Endeavor,Telstra,In Service,Pacific Islands
+86,ASH,American Samoa Hawaii Cable,American Samoa Hawaii Cable LLC,Out of Service,Pacific Islands
+87,,,,,Great Lakes
+88,,,,,Great Lakes
+89,,,,,Great Lakes
+90,,,,,Great Lakes
+91,,,,,Great Lakes
+92,,,,,Great Lakes
+93,,,,,Great Lakes
+94,,,,,Great Lakes
+95,,,,,Great Lakes
+96,,,,,Great Lakes
+97,,,,,Great Lakes
+98,,,,,Great Lakes
+99,,,,,Great Lakes
+100,,,,,Great Lakes
+101,,,,,Great Lakes
+102,,,,,Great Lakes
+103,,,,,Great Lakes
+104,,,,,Great Lakes
+105,,,,,Great Lakes
+106,,,,,Great Lakes
+107,,,,,Great Lakes
+108,,,,,Great Lakes
+109,,,,,Great Lakes
+110,,,,,Great Lakes
+111,,,,,Great Lakes
+112,,,,,Great Lakes
+113,,,,,Great Lakes
+114,,,,,Great Lakes
+115,,,,,Great Lakes
+116,,,,,Great Lakes
+117,,,,,Great Lakes
+118,,,,,Great Lakes
+119,,,,,Great Lakes
+120,,,,,Great Lakes
+121,,,,,Great Lakes
+122,,,,,Great Lakes
+123,,,,,Great Lakes
+124,,,,,Great Lakes
+125,,,,,Great Lakes
+126,,,,,Great Lakes
+127,,,,,Great Lakes
+128,,,,,Great Lakes
+129,,,,,Great Lakes
+130,,,,,Great Lakes
+131,,,,,Great Lakes
+132,,,,,Great Lakes
+133,,,,,Great Lakes
+134,,,,,Great Lakes
+135,,,,,Great Lakes
+136,,,,,Great Lakes
+137,,,,,Great Lakes
+138,,,,,Great Lakes
+139,,,,,Great Lakes
+140,,,,,Great Lakes
+141,,,,,Great Lakes
+142,,,,,Great Lakes
+143,,,,,Great Lakes
+144,,,,,Great Lakes
+145,,,,,Great Lakes
+146,,,,,Great Lakes
+147,,,,,Great Lakes
+148,,,,,Great Lakes
+149,,,,,Great Lakes
+150,,,,,Great Lakes
+151,,,,,Great Lakes
+152,,,,,Great Lakes
+153,,,,,Great Lakes
+154,,,,,Great Lakes
+155,,,,,Great Lakes
+156,,,,,Great Lakes
+157,,,,,Great Lakes
+158,,,,,Great Lakes
+159,,,,,Great Lakes
+160,,,,,Great Lakes
+161,,,,,Great Lakes
+162,Crosslake Fibre,Crosslake Fibre,Crosslake Fibre,In Service,Great Lakes
+163,,,,,Great Lakes
+164,,,,,Great Lakes
+165,,,,,Great Lakes
+166,,,,,Great Lakes
+167,,,,,Great Lakes
+168,,,,,Great Lakes
+169,,,,,Great Lakes
+170,,,,,Great Lakes
+171,,,,,Great Lakes
+172,,,,,Great Lakes
+173,,,,,Great Lakes
+174,,,,,Great Lakes
+175,,,,,Great Lakes
+176,,,,,Great Lakes
+177,,,,,Great Lakes
+178,,,,,Great Lakes
+179,,,,,Great Lakes
+180,Kellys,Kellys Island,Hancock-Wood Electric Cooperative,In Service,Great Lakes
+181,,,,,Great Lakes
+182,,,,,Great Lakes
+183,,,,,Great Lakes
+184,,,,,Great Lakes
+185,,,,,Great Lakes
+186,,,,,Great Lakes
+187,,,,,Great Lakes
+188,,,,,Great Lakes
+189,,,,,Great Lakes
+190,,,,,Great Lakes
+191,,,,,Great Lakes
+192,,,,,Great Lakes
+193,,,,,Great Lakes
+194,,,,,Great Lakes
+195,,,,,Great Lakes
+196,,,,,Great Lakes
+197,,,,,Great Lakes
+198,,,,,Great Lakes
+199,,,,,Great Lakes
+200,,,,,Great Lakes
+201,,,,,Great Lakes
+202,,,,,Great Lakes
+203,,,,,Great Lakes
+204,,,,,Great Lakes
+205,,,,,Great Lakes
+206,,,,,Great Lakes
+207,,,,,Great Lakes
+208,,,,,Great Lakes
+209,,,,,Great Lakes
+210,,,,,Great Lakes
+211,,,,,Great Lakes
+212,,,,,Great Lakes
+213,,,,,Great Lakes
+214,,,,,Great Lakes
+215,,,,,Great Lakes
+216,,,,,Great Lakes
+217,,,,,Great Lakes
+218,,,,,Great Lakes
+219,,,,,Great Lakes
+220,,,,,Great Lakes
+221,,,,,Great Lakes
+222,,,,,Great Lakes
+223,,,,,Great Lakes
+224,,,,,Great Lakes
+225,,,,,Great Lakes
+226,,,,,Great Lakes
+227,,,,,Great Lakes
+228,,,,,Great Lakes
+229,,,,,Great Lakes
+230,,,,,Great Lakes
+231,,,,,Great Lakes
+232,,,,,Great Lakes
+233,,,,,Great Lakes
+234,,,,,Great Lakes
+235,,,,,Great Lakes
+236,,,,,Great Lakes
+237,,,,,Great Lakes
+238,,,,,Great Lakes
+239,,,,,Great Lakes
+240,,,,,Great Lakes
+241,,,,,Great Lakes
+242,,,,,Great Lakes
+243,,,,,Great Lakes
+244,,,,,Great Lakes
+245,,,,,Great Lakes
+246,,,,,Great Lakes
+247,,,,,Great Lakes
+248,,,,,Great Lakes
+249,,,,,Great Lakes
+250,,,,,Great Lakes
+251,,,,,Great Lakes
+252,,,,,Great Lakes
+253,,,,,Great Lakes
+254,,,,,Great Lakes
+255,,,,,Great Lakes
+256,,,,,Great Lakes
+257,,,,,Great Lakes
+258,,,,,Great Lakes
+259,,,,,Great Lakes
+260,,,,,Great Lakes
+261,,,,,Great Lakes
+262,,,,,Great Lakes
+263,,,,,Great Lakes
+264,,,,,Great Lakes
+265,,,,,Great Lakes
+266,,,,,Great Lakes
+267,Mackinac,Mackinac Power Cable,American Transmission Company,In Service,Great Lakes
+268,,,,,Great Lakes
+269,,,,,Great Lakes
+270,,,,,Great Lakes
+271,,,,,Great Lakes
+272,,,,,Great Lakes
+273,,,,,Great Lakes
+274,,,,,Great Lakes
+275,,,,,Great Lakes
+276,,,,,Great Lakes
+277,,,,,Great Lakes
+278,,,,,Great Lakes
+279,,,,,Great Lakes
+280,,,,,Great Lakes
+281,,,,,Great Lakes
+282,,,,,Great Lakes
+283,,,,,Great Lakes
+284,,,,,Great Lakes
+285,,,,,Great Lakes
+286,,,,,Great Lakes
+287,,,,,Great Lakes
+288,,,,,Great Lakes
+289,,,,,Great Lakes
+290,,,,,Great Lakes
+291,,,,,Great Lakes
+292,,,,,Great Lakes
+293,,,,,Great Lakes
+294,,,,,Great Lakes
+295,,,,,Great Lakes
+296,,,,,Great Lakes
+297,,,,,Great Lakes
+298,,,,,Great Lakes
+299,,,,,Great Lakes
+300,,,,,Great Lakes
+301,,,,,Great Lakes
+302,,,,,Great Lakes
+303,,,,,Great Lakes
+304,,,,,Great Lakes
+305,,,,,Great Lakes
+306,,,,,Great Lakes
+307,,,,,Great Lakes
+308,,,,,Great Lakes
+309,,,,,Great Lakes
+310,,,,,Great Lakes
+311,,,,,Great Lakes
+312,,,,,Great Lakes
+313,,,,,Great Lakes
+314,,,,,Great Lakes
+315,,,,,Great Lakes
+316,,,,,Great Lakes
+317,,,,,Great Lakes
+318,,,,,Great Lakes
+319,,,,,Great Lakes
+320,,,,,Great Lakes
+321,,,,,Great Lakes
+322,,,,,Great Lakes
+323,,,,,Great Lakes
+324,,,,,Great Lakes
+325,,,,,Great Lakes
+326,,,,,Great Lakes
+327,,,,,Great Lakes
+328,,,,,Great Lakes
+329,,,,,Great Lakes
+330,,,,,Great Lakes
+331,,,,,Great Lakes
+332,,,,,Great Lakes
+333,,,,,Great Lakes
+334,,,,,Great Lakes
+335,,,,,Great Lakes
+336,,,,,Great Lakes
+337,,,,,Great Lakes
+338,,,,,Great Lakes
+339,,,,,Great Lakes
+340,,,,,Great Lakes
+341,,,,,Great Lakes
+342,,,,,Great Lakes
+343,,,,,Great Lakes
+344,,,,,Great Lakes
+345,,,,,Great Lakes
+346,,,,,Great Lakes
+347,,,,,Great Lakes
+348,,,,,Great Lakes
+349,,,,,Great Lakes
+350,,,,,Great Lakes
+351,,,,,Great Lakes
+352,,,,,Great Lakes
+353,,,,,Great Lakes
+354,,,,,Great Lakes
+355,,,,,Great Lakes
+356,,,,,Great Lakes
+357,,,,,Great Lakes
+358,,,,,Great Lakes
+359,,,,,Great Lakes
+360,,,,,Great Lakes
+361,,,,,Great Lakes
+362,,,,,Great Lakes
+363,,,,,Great Lakes
+364,,,,,Great Lakes
+365,,,,,Great Lakes
+366,,,,,Great Lakes
+367,,,,,Great Lakes
+368,,,,,Great Lakes
+369,,,,,Great Lakes
+370,,,,,Great Lakes
+371,,,,,Great Lakes
+372,,,,,Great Lakes
+373,,,,,Great Lakes
+374,,,,,Great Lakes
+375,,,,,Great Lakes
+376,,,,,Great Lakes
+377,,,,,Great Lakes
+378,,,,,Great Lakes
+379,,,,,Great Lakes
+380,,,,,Great Lakes
+381,,,,,Great Lakes
+382,,,,,Great Lakes
+383,,,,,Great Lakes
+384,,,,,Great Lakes
+385,,,,,Great Lakes
+386,,,,,Great Lakes
+387,,,,,Great Lakes
+388,,,,,Great Lakes
+389,,,,,Great Lakes
+390,,,,,Great Lakes
+391,,,,,Great Lakes
+392,,,,,Great Lakes
+393,,,,,Great Lakes
+394,,,,,Great Lakes
+395,,,,,Great Lakes
+396,,,,,Great Lakes
+397,,,,,Great Lakes
+398,,,,,Great Lakes
+399,,,,,Great Lakes
+400,,,,,Great Lakes
+401,,,,,Great Lakes
+402,PacWave,PacWave South,Oregon State University,In Service,West Coast
+403,WAAK 1,Washington - Alaska 1,AT&T Corp,Out of Service,West Coast
+404,Cable 99,Cable 99,Eversource Energy,In Service,East Coast
+405,,Power Transmission Cable,National Grid and Orsted,In Service,East Coast
+406,,Power Transmission Cable,National Grid and Orsted,In Service,East Coast
+407,MVCO,Martha's Vineyard Coastal Observatory,Woods Hole Oceanographic Institution,In Service,East Coast
+408,JUS 9,Japan U.S. Cable Network,AT&T Corp,In Service,West Coast
+409,MARS,Monterey Accelerated Research System,Monterey Bay Aquarium Research Institute,In Service,West Coast
+410,Cross Sound,Cross Sound Cable Interconnector HVDC,Cross Sound Cable Company LLC,In Service,East Coast
+411,JUS 8,Japan U.S. Cable Network,AT&T Corp,In Service,West Coast
+412,Cutler,Cutler,Department of Defense,In Service,East Coast
+413,230 kV,Silver Run Project,Hope Creek Nuclear Power Plant,In Service,East Coast
+414,KetchCan1,KetchCan1 Submarine Fiber Cable System,Ketchikan Public Utilities,In Service,Pacific Northwest
+415,KPU,Submarine Power Cable,Ketchikan Public Utilities,In Service,Pacific Northwest
+416,,LEO 15 Fiber Optic Cable,Rutgers University Marine Field Station,In Service,East Coast
+417,,Power Transmission Cable - West Montalvo Oil Field,California Resource Corporation,In Service,West Coast
+418,,Power Transmission Cable - West Montalvo Oil Field,California Resource Corporation,In Service,West Coast
+419,GTMO 1,GTMO 1,Department of Defense,In Service,Caribbean
+420,GTMO PR,GTMO PR,Department of Defense,In Service,Caribbean
+421,,Nantucket Harbor Electric Supply,National Grid,In Service,East Coast
+422,TAT 11-D,TAT 11,AT&T Corp,Out of Service,East Coast
+423,TAT 8-D1,TAT 8,AT&T Corp,Out of Service,East Coast
+424,600 MW,Hudson Transmission Project Power Cable,PowerBridge,In Service,East Coast
+425,Neptune,Neptune HVDC,Neptune Regional Transmission System LLC,In Service,East Coast
+426,Apollo North,Apollo Submarine Cable System,Vodafone,In Service,East Coast
+427,Apollo South,Apollo Submarine Cable System,Vodafone,In Service,East Coast
+428,FLAG Atlantic 1,FLAG Atlantic 1,Global Cloud Xchange,In Service,East Coast
+429,TAT 12-13,TAT 12-13 Interlink,AT&T,In Service,East Coast
+430,,Nantucket Harbor Electric Supply,National Grid,In Service,East Coast
+431,TAT 6,TAT 6,AT&T Corp,Out of Service,East Coast
+432,CANUS 1,CANUS,TATA Communications,Out of Service,East Coast
+433,TAT 5,TAT 5,AT&T Corp,Out of Service,East Coast
+434,,1869 French Atlantic Cable,Anglo-American Telegraph Company,Abandoned,East Coast
+435,TAT 12,TAT 12,AT&T Corp,Out of Service,East Coast
+436,TGN A-2,TGN A,TATA Communications,In Service,East Coast
+437,TGN A-1,TGN A,TATA Communications,In Service,East Coast
+438,GB,Gemini Bermuda,Verizon,In Service,East Coast
+439,EXA Express,EXA Infrastructure Express,EXA Infrastructure,In Service,East Coast
+440,TAT 4,TAT 4,AT&T Corp,Out of Service,East Coast
+441,GlobeNet 1,GlobeNet,GlobeNet Cable System,In Service,East Coast
+442,GlobeNet 1,GlobeNet,GlobeNet Cable System,In Service,East Coast
+443,GlobeNet 5,GlobeNet,GlobeNet Cable System,In Service,East Coast
+444,FLAG Atlantic 1,FLAG Atlantic North,Global Cloud Xchange,In Service,East Coast
+445,PTAT E1,Private Transatlantic Tellecommunications Cable System,Sprint,Out of Service,East Coast
+446,CB 1,Challenger Bermuda,OneCommunications,In Service,East Coast
+447,Yellow,Yellow Cable System,Lumen Technologies Inc,In Service,East Coast
+448,AC 1-A,Atlantic Crossing 1,Colt Technology Services Group Limited,In Service,East Coast
+449,AC 1-C,Atlantic Crossing 1,Colt Technology Services Group Limited,In Service,East Coast
+450,MAC 1-3,Mid Atlantic Crossing,Lumen Technologies Inc,In Service,East Coast
+451,MAC 1-1,Mid Atlantic Crossing,Lumen Technologies Inc,In Service,East Coast
+452,PCCS 1,Pacific Caribbean Cable System 1,Pacific Caribbean Cable System Consortium,In Service,East Coast
+453,,Possible telegraph cables,<Null>,Abandoned,East Coast
+454,,Possible telegraph cables,<Null>,Abandoned,East Coast
+455,,Possible telegraph cables,<Null>,Abandoned,East Coast
+456,,Possible telegraph cables,<Null>,Abandoned,East Coast
+457,,Possible telegraph cables,<Null>,Abandoned,East Coast
+458,,Possible telegraph cables,<Null>,Abandoned,East Coast
+459,,Possible telegraph cables,<Null>,Abandoned,East Coast
+460,,Possible telegraph cables,,Abandoned,East Coast
+461,,Possible telegraph cables,,Abandoned,East Coast
+462,,Possible telegraph cables,,Abandoned,East Coast
+463,MONET 1,MONET 1,"Angola Cables, Google, Algar Telecom, Antel Uruguay",In Service,East Coast
+464,BICS 6,Bahamas Internet Cable System,Caribbean Crossings,In Service,East Coast
+465,,Possible telegraph cables,,Abandoned,East Coast
+466,,Possible telegraph cables,,Abandoned,East Coast
+467,Tampnet,Gulf of Mexico Fiber Optic Network,Tampnet,In Service,Gulf of America
+468,BSCS,Boriken Submarine Cable System,Blackburn Technology,In Service,Caribbean
+469,BRUSA 4.3,BRUSA Cable System,Telxius,In Service,Caribbean
+470,BRUSA 4.1,BRUSA Cable System,Telxius,In Service,Caribbean
+471,MAYA 1,MAYA 1,"Verizon, AT&T, T-Mobile, Hondutel, Telefonica, and others",In Service,East Coast
+472,ARCOS 1-25,Americas Region Caribbean Optical-Ring System,Consortium Ownership Model,In Service,East Coast
+473,Americas 1 N,Americas 1 North - Columbus II B,AT&T Corp,In Service,East Coast
+474,Bahamas II Cable,Bahamas II Cable System,The Bahamas Telecommunications Company Limited,In Service,East Coast
+475,FST 3,Florida St Thomas 3,AT&T Corp,Out of Service,East Coast
+476,Bahamas 1,Bahamas 1,AT&T Corp,Out of Service,East Coast
+477,SAm 1 I,South America 1,Telxius,In Service,East Coast
+478,GlobeNet 1,GlobeNet Cable System,GlobeNet,In Service,East Coast
+479,GlobeNet 2,GlobeNet Cable System,GlobeNet,In Service,East Coast
+480,CFX 1,CFX 1,Liberty Latin America,In Service,East Coast
+481,Columbus II-A,Columbus II Cable System,AT&T Corp,In Service,East Coast
+482,Columbus III,Columbus III,AT&T Corp,Out of Service,East Coast
+483,Americas II-12,Americas II Cable System,"Embratel, AT&T, Verizon, T-Mobile, CANTV, Tata, and others",In Service,East Coast
+484,Columbus II-B,Columbus II Cable System,AT&T Corp,In Service,East Coast
+485,,Florico 2 ,AT&T Corp,Out of Service,East Coast
+486,,Florida Puerto Rico N-S,AT&T Corp,Out of Service,East Coast
+487,,Florida Puerto Rico S-N,AT&T Corp,Out of Service,East Coast
+488,,Florida Jamaica,AT&T Corp,Out of Service,East Coast
+489, ARCOS 1-8,Americas Region Caribbean Optical-Ring System,ARCOS-1 USA Inc,In Service,Caribbean
+490,ARCOS 1-7,Americas Region Caribbean Optical-Ring System,ARCOS-1 USA Inc,In Service,Caribbean
+491,SAm 1-H,South America 1,Telxius,In Service,East Coast
+492,SAm 1-H,South America 1,Telxius,In Service,Caribbean
+493,GlobeNet 2-1,GlobeNet,GlobeNet,In Service,Caribbean
+494,MAC 1-2,Mid-Atlantic Crossing,Lumen Technologies Inc,In Service,Caribbean
+495,Unity,Unity Cable System,GU Holdings Inc,In Service,West Coast
+496,TGN G5,TGN Pacific,TATA Communications,In Service,West Coast
+497,SEA U.S.,Southeast Asia U.S.,Michael Wyse,In Service,West Coast
+498,,Offshore Power Cables for Santa Ynez Unit,Exxon Mobil,In Service,West Coast
+499,PC1 E,Pacific Crossing,NTT Communications Ltd,In Service,West Coast
+500,TPC 5-CN,Trans-Pacific Cable 5 Network,AT&T Corp,In Service,West Coast
+501,AAG,Asia America Gateway,AT&T and Partners,In Service,West Coast
+502,TBC,Trans-Bay Cable,SteelRiver Transmission Company,In Service,West Coast
+503,FASTER,FASTER Cable System,GU Holdings Inc,In Service,West Coast
+504,TPC 5-CN,Trans-Pacific Cable 5 Network,AT&T Corp,In Service,West Coast
+505,AKORN 2.2,AKORN,Alaska Communications,In Service,West Coast
+506,,RSN Backbone Cable,Coastal Endurance Array Cables,In Service,West Coast
+507,Hawaiki T4,Hawaiki System,Hawaiki Submarine Cable LP,In Service,West Coast
+508,,RSN Backbone Cable,Coastal Endurance Array Cables,In Service,West Coast
+509,TGN G6,TGN Pacific,TATA Communications,In Service,West Coast
+510,SC F,Southern Cross,Southern Cross Cable Network,In Service,West Coast
+511,NORTH STAR,Northstar Nedonna,Alaska Communications,In Service,West Coast
+512,NCP,New Cross Pacific Cable,Microsoft Infrastructure Group LLC,In Service,West Coast
+513,NPC,North Pacific Cable System,GCI Communication Corp,Out of Service,West Coast
+514,TPE,Trans-Pacific Express,MCI International Inc,In Service,West Coast
+515,TGN G1,TGN Pacific,TATA Communications,In Service,West Coast
+516,AU West 2,Alaska United West,GCI Communication Corp,In Service,West Coast
+517,AU East C,Alaska United East,GCI Communication Corp,In Service,West Coast
+518,PC1 E,Pacific Crossing 1,NTT Communications,In Service,West Coast
+519,PC1 N,Pacific Crossing 1,NTT Communications,In Service,West Coast
+520,WAAK 2,Washington - Alaska 2,<Null>,Out of Service,West Coast
+521,Amitie,Amitie,EXA Infrastructure,In Service,East Coast
+522,PTAT E2,Private Transatlantic Tellecommunications Cable System,Sprint,Out of Service,East Coast
+523,CVOW,Coastal Virginia Offshore Wind,Dominion Energy,In Service,East Coast
+524,BRUSA 1,BRUSA Cable System,Telxius,In Service,East Coast
+525,Duant,Dunant,Google,In Service,East Coast
+526,MAREA,MAREA Cable System,"Telxius USA, Edge Cable Holdings USA LLC",In Service,East Coast
+527,AU Aleutian,AU Aleutian,GCI Communication Corp,In Service,Pacific Northwest
+528,GCI,GCI South East Alaska Fiber Optic Cable,GCI Communication Corp,In Service,Pacific Northwest
+529,GCI,GCI South East Alaska Fiber Optic Cable,GCI Communication Corp,In Service,Pacific Northwest
+530,GCI,GCI South East Alaska Fiber Optic Cable,GCI Communication Corp,In Service,Pacific Northwest
+531,,Northstar Cable,Alaska Communications,In Service,Pacific Northwest
+532,AU SE,Alaska United Southeast,GCI Communication Corp,In Service,Pacific Northwest
+533,AU EAST D,Alaska United,GCI Communication Corp,In Service,Pacific Northwest
+534,North Star,Northstar Valdez - Whittier,Alaska Communications,In Service,Pacific Northwest
+535,Hawaiki,Hawaiki Cable,Hawaiki Submarine Cable LP,In Service,Pacific Islands
+536,Honotua,Honotua,"ONATI SAS, OPT French Polynesia",In Service,Pacific Islands
+537,SCCN,Southern Cross Cable Network,Southern Cross Cable Network,In Service,Pacific Islands
+538,SC G,Southern Cross,Southern Cross Cable Network,In Service,Pacific Islands
+539,,Guam 2,<Null>,Out of Service,Pacific Islands
+540,TPC 5-H,Trans-Pacific Cable,AT&T Corp,Out of Service,Pacific Islands
+541,AAG,Asia America Gateway ,AT&T and Partners,In Service,Pacific Islands
+542,HAW-3,Hawaii 3,AT&T Corp,Out of Service,Pacific Islands
+543,AAG 5,Asia America Gateway,AT&T Corp,In Service,Pacific Islands
+544,HAW 5,Hawaii 5,AT&T Corp,Out of Service,Pacific Islands
+545,TPC 5-CN,Trans-Pacific Cable 5 Network,AT&T Corp,In Service,Pacific Islands
+546,HAW 1,Hawaii 1 West-East,AT&T Corp,Out of Service,Pacific Islands
+547,HAW 1,Hawaii 1 East-West,AT&T Corp,Out of Service,Pacific Islands
+548,,,,Abandoned,Pacific Islands
+549,JUS,Japan U.S. Cable Network,"Verizon, AT&T, BT, T-Mobile, Lumen, NTT, and others",In Service,Pacific Islands
+550,HAW 4,Hawaii 4,AT&T Corp,Out of Service,Pacific Islands
+551,JUS 1,Japan U.S. Cable Network,"Verizon, AT&T, BT, T-Mobile, Lumen, NTT and others",In Service,Pacific Islands
+552,HIFN,Hawaii Island Fibre Network,"Hawaiian Telcom, Lumen",In Service,Pacific Islands
+553,Paniolo,Paniolo Cable System,Hawaiian Telecom Inc,In Service,Pacific Islands
+554,HICS,Hawaii Inter-Island Cable System,Hawaiian Telcom,In Service,Pacific Islands
+555,WETS,Wave Energy Test Site Power Line,Department of Defense,In Service,Pacific Islands
+556,WETS,Wave Energy Test Site Power Line,Department of Defense,In Service,Pacific Islands
+557,AKORN,AKORN,Alaska Communications,In Service,Pacific Northwest
+558,AKORN,AKORN,Alaska Communications,In Service,Pacific Northwest
+559,Quintillion,Quintillion Subsea Cable Network,Quintillion Subsea Operations LLC,In Service,Pacific Northwest
+560,345 kV AC,Bayonne Energy Center Cable,Bayonne Energy Center LLC,In Service,East Coast
+561,345 kV AC,Bayonne Energy Center Cable,Bayonne Energy Center LLC,In Service,East Coast
+562,HAVFRUE 1,HAVFRUE Cable System,America Europe Connect 2 USA Inc,In Service,East Coast
+563,MAC 1-2,Mid-Atlantic Crossing,Lumen Technologies Inc,In Service,East Coast
+564,MAC 1-1,Mid-Atlantic Crossing,Lumen Technologies Inc,In Service,East Coast
+565,ARCOS 1-1,Americas Region Caribbean Optical-Ring System,Consortium Ownership Model,In Service,East Coast
+566,WETS,Wave Energy Test Site Power Line,Department of Defense,In Service,Pacific Islands
+567,,Utility Cables,Squirrel Point,Out of Service,East Coast
+568,,Utility Cables,Squirrel Point,Out of Service,East Coast
+569,,Telephone Cable,AT&T Corp,Out of Service,East Coast
+570,,Utility Cables,Seguin Island Lighthouse,In Service,East Coast
+571,,Utility Cables,Cuckolds Lighthouse,In Service,East Coast
+572,,Utility Cables,Cabbage Island,In Service,East Coast
+573,,Utility Cables,Cabbage Island,In Service,East Coast
+574,,Utility Cables,Cabbage Island,In Service,East Coast
+575,,Utility Cables,Cabbage Island,In Service,East Coast
+576,,Utility Cables,Cabbage Island,In Service,East Coast
+577,,Utility Cables,Cabbage Island,In Service,East Coast
+578,,,,,Gulf of America
+579,,,,,Gulf of America
+580,,,,,Gulf of America
+581,,,,,Gulf of America
+582,,,,,Gulf of America
+583,,,,,Gulf of America
+584,,,,,Gulf of America
+585,,,,,Gulf of America
+586,,,,,Gulf of America
+587,,,,,Gulf of America
+588,,,,,Gulf of America
+589,,,,,Gulf of America
+590,,,,,Gulf of America
+591,,,,,Gulf of America
+592,,,,,Gulf of America
+593,,,,,Gulf of America
+594,,,,,Gulf of America
+595,,,,,Gulf of America
+596,,,,,Gulf of America
+597,,,,,Gulf of America
+598,,,,,Gulf of America
+599,,,,,Gulf of America
+600,,,,,Gulf of America
+601,,,,,Gulf of America
+602,,,,,Gulf of America
+603,,,,,Gulf of America
+604,,,,,Gulf of America
+605,,,,,East Coast
+606,,,,,East Coast
+607,,,,,East Coast
+608,,,,,East Coast
+609,,,,,East Coast
+610,,,,,East Coast
+611,,,,,East Coast
+612,,,,,East Coast
+613,,,,,East Coast
+614,,,,,East Coast
+615,,,,,East Coast
+616,,,,,East Coast
+617,,,,,Gulf of America
+618,,,,,Gulf of America
+619,,,,,Gulf of America
+620,,,,,Gulf of America
+621,,,,,Gulf of America
+622,,,,,Gulf of America
+623,,,,,Gulf of America
+624,,,,,East Coast
+625,,,,,East Coast
+626,,,,,Pacific Islands
+627,,,,,Pacific Islands
+628,,,,,Pacific Islands
+629,,,,,Pacific Islands
+630,,,,,Pacific Islands
+631,,,,,Gulf of America
+632,,,,,Gulf of America
+633,,,,,Gulf of America
+634,,,,,Gulf of America
+635,,,,,East Coast
+636,,,,,East Coast
+637,,,,,East Coast
+638,,,,,East Coast
+639,,,,,East Coast
+640,,,,,East Coast
+641,,,,,East Coast
+642,,,,,East Coast
+643,,,,,East Coast
+644,,,,,East Coast
+645,,,,,East Coast
+646,,,,,Gulf of America
+647,,,,,Gulf of America
+648,,,,,Gulf of America
+649,,,,,Gulf of America
+650,,,,,Gulf of America
+651,,,,,Gulf of America
+652,,,,,Gulf of America
+653,,,,,Gulf of America
+654,,,,,Gulf of America
+655,,,,,Gulf of America
+656,,,,,Great Lakes
+657,,,,,Great Lakes
+658,,,,,Gulf of America
+659,,,,,Gulf of America
+660,,,,,Gulf of America
+661,,,,,Gulf of America
+662,,,,,Gulf of America
+663,,,,,Gulf of America
+664,,,,,Gulf of America
+665,,,,,Gulf of America
+666,,,,,Gulf of America
+667,,,,,Gulf of America
+668,,,,,Gulf of America
+669,,,,,Gulf of America
+670,,,,,East Coast
+671,,,,,East Coast
+672,,,,,East Coast
+673,,,,,East Coast
+674,,,,,East Coast
+675,,,,,East Coast
+676,,,,,East Coast
+677,,,,,East Coast
+678,,,,,East Coast
+679,,,,,East Coast
+680,,,,,East Coast
+681,,,,,East Coast
+682,,,,,Gulf of America
+683,,,,,Gulf of America
+684,,,,,Gulf of America
+685,,,,,Gulf of America
+686,,,,,Gulf of America
+687,,,,,Gulf of America
+688,,,,,Gulf of America
+689,,,,,Gulf of America
+690,,,,,Gulf of America
+691,,,,,Gulf of America
+692,,,,,Gulf of America
+693,,,,,Gulf of America
+694,,,,,Gulf of America
+695,,,,,Gulf of America
+696,,,,,Gulf of America
+697,,,,,Gulf of America
+698,,,,,Gulf of America
+699,,,,,Gulf of America
+700,,,,,East Coast
+701,,,,,East Coast
+702,,,,,East Coast
+703,,,,,East Coast
+704,,,,,East Coast
+705,,,,,East Coast
+706,,,,,East Coast
+707,,,,,East Coast
+708,,,,,East Coast
+709,,,,,East Coast
+710,,,,Abandoned,East Coast
+711,,,,,East Coast
+712,,,,,East Coast
+713,,,,,East Coast
+714,,,,,Gulf of America
+715,4 x 25 kV,,Florida Power and Light,In Service,Gulf of America
+716,,,,,Gulf of America
+717,,,,,Gulf of America
+718,,,,,East Coast
+719,,,,,East Coast
+720,,,,,East Coast
+721,,,,,East Coast
+722,,,,,East Coast
+723,,,,,East Coast
+724,,,,,Gulf of America
+725,,,,,Gulf of America
+726,,,,,Gulf of America
+727,,,,,Gulf of America
+728,,,,,Gulf of America
+729,,,,,Gulf of America
+730,,,,,Gulf of America
+731,,,,,East Coast
+732,,,,,East Coast
+733,,,,,East Coast
+734,,,,,East Coast
+735,,,,,East Coast
+736,,,,,East Coast
+737,,,,,East Coast
+738,,,,,East Coast
+739,,,,,East Coast
+740,,,,,East Coast
+741,,,,,East Coast
+742,,,,,East Coast
+743,,,,,East Coast
+744,,,,,East Coast
+745,,,,,East Coast
+746,,,,,East Coast
+747,,,,,East Coast
+748,,,,,East Coast
+749,,,,,East Coast
+750,,,,,East Coast
+751,,,,,East Coast
+752,,,,,East Coast
+753,,,,,East Coast
+754,,,,,East Coast
+755,,,,,East Coast
+756,,,,,Gulf of America
+757,,,,,Gulf of America
+758,,,,,Gulf of America
+759,,,,,Gulf of America
+760,,,,,Gulf of America
+761,,,,,Gulf of America
+762,,,,,East Coast
+763,,,,,East Coast
+764,,,,,East Coast
+765,,,,,East Coast
+766,,,,,East Coast
+767,,,,,East Coast
+768,,,,,East Coast
+769,,,,,East Coast
+770,,,,,East Coast
+771,,,,,East Coast
+772,,,,,East Coast
+773,,,,,East Coast
+774,,,,,East Coast
+775,,,,,East Coast
+776,,,,,East Coast
+777,,,,,East Coast
+778,,,,,East Coast
+779,,,,,East Coast
+780,,,,,East Coast
+781,,,,,East Coast
+782,,,,,East Coast
+783,,,,,East Coast
+784,,,,,East Coast
+785,,,,,East Coast
+786,,,,,East Coast
+787,,,,,East Coast
+788,,,,,East Coast
+789,,,,,Gulf of America
+790,,,,,Gulf of America
+791,,,,,East Coast
+792,,,,,East Coast
+793,,,,,East Coast
+794,,,,,East Coast
+795,,,,,East Coast
+796,,,,,East Coast
+797,,,,,East Coast
+798,,,,,East Coast
+799,,,,,East Coast
+800,,,,,East Coast
+801,,,,,East Coast
+802,,,,,East Coast
+803,,,,,East Coast
+804,,,,,East Coast
+805,,,,,East Coast
+806,,,,,East Coast
+807,,,,,East Coast
+808,,,,,East Coast
+809,,,,,East Coast
+810,,,,,East Coast
+811,,,,,East Coast
+812,,,,,East Coast
+813,,,,,East Coast
+814,,,,,East Coast
+815,,,,,East Coast
+816,,,,,East Coast
+817,,,,,East Coast
+818,,,,,East Coast
+819,,,,,East Coast
+820,,,,,East Coast
+821,,,,,East Coast
+822,,,,,East Coast
+823,,,,,East Coast
+824,,,,,East Coast
+825,,,,,East Coast
+826,,,,,East Coast
+827,,,,,Gulf of America
+828,,,,,Gulf of America
+829,,,,,Gulf of America
+830,,,,,Gulf of America
+831,,,,,Gulf of America
+832,,,,,Gulf of America
+833,,,,,East Coast
+834,,,,,East Coast
+835,,,,,East Coast
+836,,,,,East Coast
+837,,,,,East Coast
+838,,,,,East Coast
+839,,,,,East Coast
+840,,,,,East Coast
+841,,,,,East Coast
+842,,,,,East Coast
+843,,,,,East Coast
+844,,Power Transmission Cable,,,East Coast
+845,,,,,East Coast
+846,,,,,East Coast
+847,,,,,East Coast
+848,,,,,East Coast
+849,,,,,East Coast
+850,,,,,East Coast
+851,,,,,East Coast
+852,,,,,East Coast
+853,,,,,East Coast
+854,,,,,East Coast
+855,,,,,East Coast
+856,,,,,East Coast
+857,,,,,East Coast
+858,,,,,East Coast
+859,,,,,East Coast
+860,,,,,East Coast
+861,,,,,East Coast
+862,,,,,East Coast
+863,,,,,East Coast
+864,,,,,East Coast
+865,,,,,East Coast
+866,,,,,East Coast
+867,,,,,East Coast
+868,,,,,East Coast
+869,,,,,East Coast
+870,,,,,East Coast
+871,,,,,East Coast
+872,,,,,East Coast
+873,,,,,East Coast
+874,,,,,East Coast
+875,,,,,East Coast
+876,,,,,East Coast
+877,,,,,East Coast
+878,,,,,East Coast
+879,,,,,East Coast
+880,,,,,East Coast
+881,,,,,East Coast
+882,,,,,East Coast
+883,,,,,East Coast
+884,,,,,East Coast
+885,,,,,East Coast
+886,,,,,East Coast
+887,,,,,East Coast
+888,,,,,East Coast
+889,,,,,East Coast
+890,,,,,East Coast
+891,,,,,East Coast
+892,,,,,East Coast
+893,,,,,East Coast
+894,,,,,East Coast
+895,,,,,East Coast
+896,,,,,East Coast
+897,,,,,East Coast
+898,,,,,East Coast
+899,,,,,East Coast
+900,,,,,East Coast
+901,,,,,East Coast
+902,,,,,East Coast
+903,,,,,East Coast
+904,,,,,East Coast
+905,,,,,East Coast
+906,,,,,East Coast
+907,,,,,East Coast
+908,,,,,East Coast
+909,,,,,East Coast
+910,,,,,East Coast
+911,,,,,East Coast
+912,,,,,East Coast
+913,,,,,East Coast
+914,,,,,East Coast
+915,,,,,East Coast
+916,,,,,East Coast
+917,,,,,East Coast
+918,,,,,East Coast
+919,,,,,East Coast
+920,,,,,East Coast
+921,,,,,East Coast
+922,,,,,East Coast
+923,,,,,East Coast
+924,,,,,East Coast
+925,,,,,East Coast
+926,,,,,East Coast
+927,,,,,East Coast
+928,,,,,East Coast
+929,,,,,East Coast
+930,,,,,East Coast
+931,,,,,East Coast
+932,,,,,East Coast
+933,,,,,East Coast
+934,,,,,East Coast
+935,,,,,East Coast
+936,,,,,East Coast
+937,,,,,East Coast
+938,,,,,East Coast
+939,,,,,East Coast
+940,,,,,East Coast
+941,,,,,East Coast
+942,,,,,East Coast
+943,,,,,East Coast
+944,,,,,East Coast
+945,,Multiple Cables,,,East Coast
+946,,,,,East Coast
+947,,,,,East Coast
+948,,,,,East Coast
+949,,,,,East Coast
+950,,,,,East Coast
+951,,,,,East Coast
+952,,,,,East Coast
+953,,,,,East Coast
+954,,,,,East Coast
+955,,,,,East Coast
+956,,,,,East Coast
+957,,,,,East Coast
+958,,,,,East Coast
+959,,,,,East Coast
+960,,,,,East Coast
+961,,,,,East Coast
+962,,,,,East Coast
+963,,,,,East Coast
+964,,,,,East Coast
+965,,,,,East Coast
+966,,,,,East Coast
+967,,,,,East Coast
+968,,,,,East Coast
+969,,,,,East Coast
+970,,,,,East Coast
+971,,,,,East Coast
+972,,,,,East Coast
+973,,,,,East Coast
+974,,,,,East Coast
+975,,,,,East Coast
+976,,,,,East Coast
+977,,,,,East Coast
+978,,,,,East Coast
+979,,,,,Gulf of America
+980,,,,,Gulf of America
+981,,,,,Gulf of America
+982,,,,,Gulf of America
+983,,,,,Gulf of America
+984,,,,,East Coast
+985,,,,,East Coast
+986,,,,,East Coast
+987,,,,,East Coast
+988,,,,,East Coast
+989,,,,,East Coast
+990,,,,,East Coast
+991,,,,,East Coast
+992,,,,,East Coast
+993,,,,,East Coast
+994,,,,,East Coast
+995,,,,,East Coast
+996,,,,,East Coast
+997,,,,,East Coast
+998,,,,,East Coast
+999,,,,,East Coast
+1000,,,,,East Coast
+1001,,,,,East Coast
+1002,,,,,East Coast
+1003,,,,,East Coast
+1004,,,,,East Coast
+1005,,,,,East Coast
+1006,,,,,East Coast
+1007,,,,,East Coast
+1008,,,,,East Coast
+1009,,,,,East Coast
+1010,,,,,East Coast
+1011,,,,,Gulf of America
+1012,,,,,Gulf of America
+1013,,,,,Gulf of America
+1014,,,,,Gulf of America
+1015,,,,,Gulf of America
+1016,,,,,Gulf of America
+1017,,,,,Gulf of America
+1018,,,,,Gulf of America
+1019,,,,,Gulf of America
+1020,,,,,Gulf of America
+1021,,,,,East Coast
+1022,,,,,East Coast
+1023,,,,,East Coast
+1024,,,,,East Coast
+1025,,,,,East Coast
+1026,,,,,East Coast
+1027,,,,,East Coast
+1028,,Power Transmission Cable,,,East Coast
+1029,,,,,East Coast
+1030,,,,,East Coast
+1031,,,,,East Coast
+1032,,,,,East Coast
+1033,,,,,East Coast
+1034,,,,,Gulf of America
+1035,,,,,Gulf of America
+1036,,,,,East Coast
+1037,,,,,East Coast
+1038,,,,,East Coast
+1039,,,,,East Coast
+1040,,Telephone Cable,,,East Coast
+1041,,,,,Gulf of America
+1042,,,,,Gulf of America
+1043,,,,,Gulf of America
+1044,,,,,Gulf of America
+1045,,,,,Gulf of America
+1046,,,,,Gulf of America
+1047,,,,,Gulf of America
+1048,,,,,Gulf of America
+1049,,,,,Gulf of America
+1050,,,,,Gulf of America
+1051,,,,,Gulf of America
+1052,,,,,East Coast
+1053,,,,,East Coast
+1054,,,,,East Coast
+1055,,,,,East Coast
+1056,,,,,East Coast
+1057,,,,,East Coast
+1058,,,,,East Coast
+1059,,,,,East Coast
+1060,,,,,Gulf of America
+1061,,,,,Gulf of America
+1062,,,,,Gulf of America
+1063,,,,,Gulf of America
+1064,,,,,Gulf of America
+1065,,,,,Gulf of America
+1066,,,,,Gulf of America
+1067,,,,,Gulf of America
+1068,,,,,Gulf of America
+1069,,,,,Gulf of America
+1070,,,,,East Coast
+1071,,,,,East Coast
+1072,,,,,East Coast
+1073,,,,,East Coast
+1074,,,,,East Coast
+1075,,,,,East Coast
+1076,,,,,Gulf of America
+1077,,,,,Gulf of America
+1078,,,,,Gulf of America
+1079,,,,,Gulf of America
+1080,,,,,Gulf of America
+1081,,,,,Gulf of America
+1082,,,,,Gulf of America
+1083,,,,,East Coast
+1084,,,,,East Coast
+1085,,,,,East Coast
+1086,,,,,East Coast
+1087,,,,,East Coast
+1088,,,,,East Coast
+1089,,,,,East Coast
+1090,,,,,East Coast
+1091,,,,,East Coast
+1092,,,,,West Coast
+1093,,,,,West Coast
+1094,,,,,West Coast
+1095,,,,,West Coast
+1096,,,,,West Coast
+1097,,,,,West Coast
+1098,,,,,West Coast
+1099,,,,,East Coast
+1100,,,,,East Coast
+1101,,,,,East Coast
+1102,,,,,East Coast
+1103,,,,,East Coast
+1104,,,,,East Coast
+1105,,,,,East Coast
+1106,,,,,East Coast
+1107,,,,,East Coast
+1108,,,,,Gulf of America
+1109,,,,,Gulf of America
+1110,,,,,Gulf of America
+1111,,,,,Gulf of America
+1112,,,,,Gulf of America
+1113,,,,,Gulf of America
+1114,,,,,Gulf of America
+1115,,,,,Gulf of America
+1116,,,,,Gulf of America
+1117,,,,,Gulf of America
+1118,,,,,Gulf of America
+1119,,,,,Gulf of America
+1120,,,,,East Coast
+1121,,,,,East Coast
+1122,,,,,East Coast
+1123,,,,,East Coast
+1124,,,,,East Coast
+1125,,,,,East Coast
+1126,,,,,East Coast
+1127,,,,,East Coast
+1128,,,,,West Coast
+1129,,,,,West Coast
+1130,,,,,West Coast
+1131,,,,,West Coast
+1132,,<Null>,,,West Coast
+1133,,,,,West Coast
+1134,,,,,East Coast
+1135,,,,,East Coast
+1136,,,,,East Coast
+1137,,,,,East Coast
+1138,,,,,East Coast
+1139,,,,,East Coast
+1140,,,,,East Coast
+1141,,,,,East Coast
+1142,,,,,East Coast
+1143,,,,,Gulf of America
+1144,,,,,Gulf of America
+1145,,,,,Gulf of America
+1146,,,,,Gulf of America
+1147,,,,,Gulf of America
+1148,,,,,Gulf of America
+1149,,,,,Gulf of America
+1150,,,,,Gulf of America
+1151,,,,,Gulf of America
+1152,,,,,East Coast
+1153,,,,,East Coast
+1154,,,,,East Coast
+1155,,,,,East Coast
+1156,,,,,East Coast
+1157,,,,,East Coast
+1158,,,,,East Coast
+1159,,,,,East Coast
+1160,,,,,East Coast
+1161,,,,,East Coast
+1162,,,,,East Coast
+1163,,,,,West Coast
+1164,,,,,West Coast
+1165,,,,,West Coast
+1166,,,,,West Coast
+1167,,,,,West Coast
+1168,,,,,West Coast
+1169,,,,,West Coast
+1170,,,,,West Coast
+1171,,,,,West Coast
+1172,,,,,West Coast
+1173,,,,,West Coast
+1174,,,,,West Coast
+1175,,,,,West Coast
+1176,,,,,West Coast
+1177,,,,,West Coast
+1178,,,,,East Coast
+1179,,,,,East Coast
+1180,,Hydrophones,,,East Coast
+1181,,,,,East Coast
+1182,,,,,Gulf of America
+1183,,,,,Gulf of America
+1184,,,,,Gulf of America
+1185,,,,,East Coast
+1186,,,,,East Coast
+1187,,,,,East Coast
+1188,,,,,East Coast
+1189,,,,,East Coast
+1190,,,,,East Coast
+1191,,,,,East Coast
+1192,,,,,East Coast
+1193,,,,,East Coast
+1194,,,,,East Coast
+1195,,,,,East Coast
+1196,,,,,East Coast
+1197,,,,,East Coast
+1198,,,,,East Coast
+1199,,,,,East Coast
+1200,,,,,East Coast
+1201,,,,,East Coast
+1202,,,,,West Coast
+1203,,,,,West Coast
+1204,,,,,West Coast
+1205,,,,,West Coast
+1206,,,,,West Coast
+1207,,,,,West Coast
+1208,,,,,West Coast
+1209,,,,,East Coast
+1210,,,,,East Coast
+1211,,,,,East Coast
+1212,,,,,East Coast
+1213,,,,,East Coast
+1214,,,,,Gulf of America
+1215,,,,,Gulf of America
+1216,,,,,Gulf of America
+1217,,,,,Gulf of America
+1218,,,,,Gulf of America
+1219,,,,,Gulf of America
+1220,,,,,Gulf of America
+1221,,,,,Gulf of America
+1222,,,,,Gulf of America
+1223,,,,,East Coast
+1224,,,,,East Coast
+1225,,,,,East Coast
+1226,,,,,East Coast
+1227,,,,,East Coast
+1228,,,,,East Coast
+1229,,,,,East Coast
+1230,,,,,East Coast
+1231,,,,,East Coast
+1232,,,,,East Coast
+1233,,,,,East Coast
+1234,,,,,East Coast
+1235,,,,,East Coast
+1236,,,,,East Coast
+1237,,,,,East Coast
+1238,,,,,East Coast
+1239,,,,,East Coast
+1240,,,,,East Coast
+1241,,,,,East Coast
+1242,,,,,East Coast
+1243,,,,,East Coast
+1244,,,,,West Coast
+1245,,,,,West Coast
+1246,,,,,West Coast
+1247,,,,,West Coast
+1248,,,,,West Coast
+1249,,,,,West Coast
+1250,,,,,West Coast
+1251,,,,,West Coast
+1252,,,,,East Coast
+1253,,,,,East Coast
+1254,,,,,East Coast
+1255,,,,,East Coast
+1256,,,,,East Coast
+1257,,,,,Gulf of America
+1258,,,,,Gulf of America
+1259,,,,,Gulf of America
+1260,,,,,Gulf of America
+1261,,,,,Gulf of America
+1262,,,,,Gulf of America
+1263,,,,,Gulf of America
+1264,,,,,Gulf of America
+1265,,,,,Gulf of America
+1266,,,,,East Coast
+1267,,,,,East Coast
+1268,,,,,East Coast
+1269,,,,,East Coast
+1270,,,,,East Coast
+1271,,,,,East Coast
+1272,,,,,East Coast
+1273,,,,,East Coast
+1274,,,,,East Coast
+1275,,,,,East Coast
+1276,,,,,East Coast
+1277,,,,,East Coast
+1278,,,,,East Coast
+1279,,,,,East Coast
+1280,,,,,East Coast
+1281,,,,,East Coast
+1282,,,,,West Coast
+1283,,,,,West Coast
+1284,,,,,West Coast
+1285,,,,,West Coast
+1286,,,,,West Coast
+1287,FOCUS 1,Fiber Optic Communcations Undersea System,Department of Defense,In Service,West Coast
+1288,,,,,West Coast
+1289,,,,,West Coast
+1290,,,,,East Coast
+1291,,,,,East Coast
+1292,,,,,East Coast
+1293,,,,,East Coast
+1294,,,,,East Coast
+1295,,,,,Gulf of America
+1296,,,,,Gulf of America
+1297,,,,,Gulf of America
+1298,,,,,Gulf of America
+1299,,,,,Gulf of America
+1300,,,,,Gulf of America
+1301,,,,,Gulf of America
+1302,,,,,Gulf of America
+1303,,,,,Gulf of America
+1304,,,,,Gulf of America
+1305,,,,,Gulf of America
+1306,,,,,Gulf of America
+1307,,,,,Gulf of America
+1308,,,,,Gulf of America
+1309,,,,,Gulf of America
+1310,,,,,Gulf of America
+1311,,,,,Gulf of America
+1312,,,,,Gulf of America
+1313,,,,,East Coast
+1314,,,,,East Coast
+1315,,,,,East Coast
+1316,,,,,East Coast
+1317,,,,,East Coast
+1318,,,,,East Coast
+1319,,,,,East Coast
+1320,,,,,East Coast
+1321,,,,,East Coast
+1322,,,,,East Coast
+1323,,,,,East Coast
+1324,,,,,East Coast
+1325,,,,,East Coast
+1326,,,,,East Coast
+1327,,,,,West Coast
+1328,,,,,West Coast
+1329,,,,,West Coast
+1330,,,,,West Coast
+1331,,,,,West Coast
+1332,,,,,West Coast
+1333,,,,,West Coast
+1334,,,,,Gulf of America
+1335,,,,,Gulf of America
+1336,,,,,Gulf of America
+1337,,,,,Gulf of America
+1338,,,,,Gulf of America
+1339,,,,,Gulf of America
+1340,,,,,Gulf of America
+1341,,,,,Gulf of America
+1342,,,,,Gulf of America
+1343,,,,,Gulf of America
+1344,,,,,Gulf of America
+1345,,,,,Gulf of America
+1346,,,,,Gulf of America
+1347,,,,,Gulf of America
+1348,,,,,Gulf of America
+1349,,,,,Gulf of America
+1350,,,,,Gulf of America
+1351,,,,,West Coast
+1352,,,,,West Coast
+1353,,,,,West Coast
+1354,,,,,West Coast
+1355,,,,,West Coast
+1356,,,,,West Coast
+1357,,,,,West Coast
+1358,,,,,West Coast
+1359,,,,,Gulf of America
+1360,,,,,Gulf of America
+1361,,,,,Gulf of America
+1362,,,,,Gulf of America
+1363,,,,,Gulf of America
+1364,,,,,Gulf of America
+1365,,,,,Gulf of America
+1366,,,,,Gulf of America
+1367,,,,,Gulf of America
+1368,,,,,West Coast
+1369,,,,,West Coast
+1370,,,,,West Coast
+1371,,,,,West Coast
+1372,,,,,West Coast
+1373,,,,,West Coast
+1374,,,,,West Coast
+1375,,,,,West Coast
+1376,,,,,West Coast
+1377,,,,,West Coast
+1378,,,,,West Coast
+1379,,,,,West Coast
+1380,,,,,West Coast
+1381,,,,,Gulf of America
+1382,,,,,Gulf of America
+1383,,,,,Gulf of America
+1384,,,,,Gulf of America
+1385,,,,,West Coast
+1386,,,,,West Coast
+1387,,,,,West Coast
+1388,,,,,West Coast
+1389,,,,,West Coast
+1390,,,,,West Coast
+1391,,,,,West Coast
+1392,,,,,West Coast
+1393,,,,,West Coast
+1394,,,,,West Coast
+1395,,,,,West Coast
+1396,,,,,Gulf of America
+1397,,,,,Gulf of America
+1398,,,,,Gulf of America
+1399,,,,,Gulf of America
+1400,,,,,Gulf of America
+1401,,,,,Gulf of America
+1402,,,,,Gulf of America
+1403,,,,,Gulf of America
+1404,,,,,Gulf of America
+1405,,,,,Gulf of America
+1406,,,,,West Coast
+1407,,,,,West Coast
+1408,,,,,West Coast
+1409,,,,,West Coast
+1410,,,,,West Coast
+1411,,,,,West Coast
+1412,,,,,West Coast
+1413,,,,,West Coast
+1414,,,,,West Coast
+1415,,,,,West Coast
+1416,,,,,Gulf of America
+1417,,,,,Gulf of America
+1418,,,,,Gulf of America
+1419,,,,,Gulf of America
+1420,,,,,Gulf of America
+1421,,,,,Gulf of America
+1422,,,,,Gulf of America
+1423,,,,,Gulf of America
+1424,,,,,Pacific Northwest
+1425,,,,,Gulf of America
+1426,,,,,West Coast
+1427,,,,,West Coast
+1428,,,,,West Coast
+1429,,,,,West Coast
+1430,,,,,West Coast
+1431,,,,,East Coast
+1432,,,,,East Coast
+1433,,,,,East Coast
+1434,,,,,East Coast
+1435,,,,,Gulf of America
+1436,,,,,Gulf of America
+1437,,,,,Gulf of America
+1438,,,,,Gulf of America
+1439,,,,,Gulf of America
+1440,,,,,Gulf of America
+1441,,,,,Gulf of America
+1442,,,,,Gulf of America
+1443,,,,,Gulf of America
+1444,,,,,Gulf of America
+1445,,,,,Gulf of America
+1446,,Power Transmission Cable,,,Gulf of America
+1447,,,,,Gulf of America
+1448,,,,,Gulf of America
+1449,,,,,Gulf of America
+1450,,,,,East Coast
+1451,,,,,East Coast
+1452,3 x 138 kV,Northport-to-Norwalk XLPE,,In Service,East Coast
+1453,,,,,East Coast
+1454,,,,,East Coast
+1455,,,,,East Coast
+1456,,,,,East Coast
+1457,,,,,East Coast
+1458,,,,,East Coast
+1459,,,,,East Coast
+1460,,,,,East Coast
+1461,,,,,East Coast
+1462,,,,,East Coast
+1463,,,,,East Coast
+1464,,,,,East Coast
+1465,,,,,East Coast
+1466,,,,,Gulf of America
+1467,,,,,Gulf of America
+1468,,,,,Gulf of America
+1469,,,,,West Coast
+1470,,,,,West Coast
+1471,,,,,West Coast
+1472,,,,,West Coast
+1473,,,,,West Coast
+1474,,,,,West Coast
+1475,,,,,East Coast
+1476,,,,,East Coast
+1477,,,,,East Coast
+1478,,,,,East Coast
+1479,,,,,East Coast
+1480,,,,,East Coast
+1481,,,,,East Coast
+1482,,,,,East Coast
+1483,,Power Transmission Cable,,,East Coast
+1484,,,,,East Coast
+1485,,,,,East Coast
+1486,,,,,East Coast
+1487,,,,,East Coast
+1488,,,,,East Coast
+1489,,,,,East Coast
+1490,,,,,East Coast
+1491,,,,,East Coast
+1492,,,,,East Coast
+1493,,,,,West Coast
+1494,,,,,West Coast
+1495,,,,,West Coast
+1496,,,,,West Coast
+1497,,,,,West Coast
+1498,,,,,West Coast
+1499,,,,,West Coast
+1500,,,,,West Coast
+1501,,,,,West Coast
+1502,,,,,West Coast
+1503,,,,,West Coast
+1504,,,,,East Coast
+1505,,,,,East Coast
+1506,,,,,East Coast
+1507,,,,,East Coast
+1508,,,,,East Coast
+1509,,,,,East Coast
+1510,,,,,East Coast
+1511,,,,,East Coast
+1512,,,,,East Coast
+1513,,,,,East Coast
+1514,,,,,East Coast
+1515,,,,,West Coast
+1516,,,,,West Coast
+1517,,,,,West Coast
+1518,,,,,West Coast
+1519,,,,,West Coast
+1520,,,,,West Coast
+1521,,,,,West Coast
+1522,,,,,West Coast
+1523,,,,,West Coast
+1524,,,,,East Coast
+1525,,,,,East Coast
+1526,,,,,East Coast
+1527,,,,,East Coast
+1528,,,,,East Coast
+1529,,,,,East Coast
+1530,,,,,East Coast
+1531,,,,,East Coast
+1532,,,,,East Coast
+1533,,,,,Gulf of America
+1534,,,,,Gulf of America
+1535,,,,,Gulf of America
+1536,,,,,Gulf of America
+1537,,,,,Gulf of America
+1538,,,,,Gulf of America
+1539,,,,,Gulf of America
+1540,,,,,Gulf of America
+1541,,,,,West Coast
+1542,,,,,West Coast
+1543,,,,,West Coast
+1544,,,,,West Coast
+1545,,,,,West Coast
+1546,,,,,East Coast
+1547,,,,,East Coast
+1548,,,,,East Coast
+1549,,,,,East Coast
+1550,,,,,East Coast
+1551,,,,,East Coast
+1552,,,,,Gulf of America
+1553,,,,,Gulf of America
+1554,,,,,Gulf of America
+1555,,,,,Gulf of America
+1556,,,,,Gulf of America
+1557,,,,,Gulf of America
+1558,,,,,Gulf of America
+1559,,,,,Gulf of America
+1560,,,,,Gulf of America
+1561,,,,,Gulf of America
+1562,,,,,East Coast
+1563,,,,,East Coast
+1564,,,,,West Coast
+1565,,,,,West Coast
+1566,,,,,West Coast
+1567,,,,,West Coast
+1568,,,,,West Coast
+1569,,,,,West Coast
+1570,,,,,East Coast
+1571,,,,,East Coast
+1572,,,,,East Coast
+1573,,,,,East Coast
+1574,,,,,East Coast
+1575,,,,,East Coast
+1576,,,,,East Coast
+1577,,,,,East Coast
+1578,,,,,East Coast
+1579,,,,,East Coast
+1580,,,,,East Coast
+1581,,,,,East Coast
+1582,,,,,East Coast
+1583,,,,,East Coast
+1584,,,,,East Coast
+1585,,,,,East Coast
+1586,,,,,West Coast
+1587,,,,,West Coast
+1588,,,,,West Coast
+1589,,,,,West Coast
+1590,,,,,East Coast
+1591,,,,,East Coast
+1592,,,,,East Coast
+1593,,,,,East Coast
+1594,,,,,East Coast
+1595,,,,,East Coast
+1596,,,,,East Coast
+1597,,,,,East Coast
+1598,,,,,East Coast
+1599,,,,,East Coast
+1600,,,,,East Coast
+1601,,,,,West Coast
+1602,,,,,West Coast
+1603,,,,,West Coast
+1604,,,,,West Coast
+1605,,,,,West Coast
+1606,,,,,West Coast
+1607,,,,Abandoned,West Coast
+1608,,,,,East Coast
+1609,,,,,East Coast
+1610,,,,,East Coast
+1611,,,,,East Coast
+1612,,,,,East Coast
+1613,,,,,East Coast
+1614,,,,,East Coast
+1615,,,,,East Coast
+1616,,,,,East Coast
+1617,,,,,East Coast
+1618,,,,,East Coast
+1619,,,,,East Coast
+1620,,,,,West Coast
+1621,,,,,West Coast
+1622,,,,,West Coast
+1623,,,,,West Coast
+1624,,,,,West Coast
+1625,,,,,West Coast
+1626,,,,,East Coast
+1627,,,,,East Coast
+1628,,,,,East Coast
+1629,,,,,East Coast
+1630,,,,,East Coast
+1631,,,,,East Coast
+1632,,,,,East Coast
+1633,,,,,East Coast
+1634,,,,,East Coast
+1635,,,,,East Coast
+1636,,,,,East Coast
+1637,,,,,East Coast
+1638,,,,,East Coast
+1639,,,,,East Coast
+1640,,,,,East Coast
+1641,,,,,East Coast
+1642,,,,,East Coast
+1643,,,,,East Coast
+1644,,,,,East Coast
+1645,,,,,West Coast
+1646,,,,Abandoned,West Coast
+1647,,,,,West Coast
+1648,,,,,West Coast
+1649,,,,,West Coast
+1650,,,,,West Coast
+1651,,,,,West Coast
+1652,,,,,West Coast
+1653,,,,,West Coast
+1654,,,,Abandoned,West Coast
+1655,,,,,West Coast
+1656,,,,,West Coast
+1657,,,,,West Coast
+1658,,,,,West Coast
+1659,,,,,West Coast
+1660,,,,,West Coast
+1661,,,,,West Coast
+1662,,,,,West Coast
+1663,,,,,East Coast
+1664,,,,,East Coast
+1665,,,,,East Coast
+1666,,,,,East Coast
+1667,,,,,East Coast
+1668,,,,,East Coast
+1669,,,,,East Coast
+1670,,,,,East Coast
+1671,,,,,East Coast
+1672,,,,,East Coast
+1673,,,,,East Coast
+1674,,,,,East Coast
+1675,,,,,East Coast
+1676,,,,,West Coast
+1677,,,,,West Coast
+1678,,,,,West Coast
+1679,,,,,West Coast
+1680,,,,,West Coast
+1681,,,,,West Coast
+1682,,,,Abandoned,West Coast
+1683,,,,,West Coast
+1684,,,,,West Coast
+1685,,,,,West Coast
+1686,,,,,West Coast
+1687,,,,,West Coast
+1688,,,,,West Coast
+1689,,,,,East Coast
+1690,,,,,East Coast
+1691,,,,,East Coast
+1692,,,,,East Coast
+1693,,,,,East Coast
+1694,,,,,East Coast
+1695,,,,,East Coast
+1696,,,,,East Coast
+1697,,,,,East Coast
+1698,,,,,East Coast
+1699,,,,,East Coast
+1700,,,,,East Coast
+1701,,,,,East Coast
+1702,,,,,East Coast
+1703,,,,,East Coast
+1704,,,,,East Coast
+1705,,,,,East Coast
+1706,,,,,East Coast
+1707,,,,,East Coast
+1708,,,,,East Coast
+1709,,,,,East Coast
+1710,,,,,East Coast
+1711,,,,,East Coast
+1712,,,,,West Coast
+1713,,,,,West Coast
+1714,,,,,West Coast
+1715,,,,,West Coast
+1716,,,,,West Coast
+1717,,,,,East Coast
+1718,,,,,East Coast
+1719,,,,,East Coast
+1720,,,,,East Coast
+1721,,,,,East Coast
+1722,,,,,East Coast
+1723,,,,,East Coast
+1724,,,,,East Coast
+1725,,,,,East Coast
+1726,,,,,East Coast
+1727,,,,,East Coast
+1728,,,,,East Coast
+1729,,,,,East Coast
+1730,,,,,East Coast
+1731,,,,,East Coast
+1732,,,,,East Coast
+1733,,,,,East Coast
+1734,,,,,East Coast
+1735,,,,,East Coast
+1736,,,,,East Coast
+1737,,,,,East Coast
+1738,,,,,East Coast
+1739,,,,,East Coast
+1740,,,,,East Coast
+1741,,,,,East Coast
+1742,,,,,East Coast
+1743,,,,,East Coast
+1744,,,,,East Coast
+1745,,,,,East Coast
+1746,,,,,East Coast
+1747,,,,,East Coast
+1748,,,,,East Coast
+1749,,,,,East Coast
+1750,,,,,East Coast
+1751,,,,,East Coast
+1752,,,,,East Coast
+1753,,,,,East Coast
+1754,,,,,East Coast
+1755,,,,,East Coast
+1756,,,,,East Coast
+1757,,,,,East Coast
+1758,,,,,Gulf of America
+1759,,,,,Gulf of America
+1760,,,,,Gulf of America
+1761,,,,,Gulf of America
+1762,,,,,Gulf of America
+1763,,,,,East Coast
+1764,,,,,East Coast
+1765,,,,,East Coast
+1766,,,,,East Coast
+1767,,,,,East Coast
+1768,,,,,East Coast
+1769,,,,,East Coast
+1770,,,,,East Coast
+1771,,,,,East Coast
+1772,,,,,East Coast
+1773,,,,,East Coast
+1774,,,,,East Coast
+1775,,,,,East Coast
+1776,,,,,East Coast
+1777,,,,,East Coast
+1778,35 kV,,,In Service,East Coast
+1779,,,,,East Coast
+1780,,,,,East Coast
+1781,,,,,East Coast
+1782,,,,,East Coast
+1783,,,,,Gulf of America
+1784,,,,,Gulf of America
+1785,,,,,Gulf of America
+1786,,,,,Gulf of America
+1787,,,,,Gulf of America
+1788,,,,,Gulf of America
+1789,,Power Transmission Cable,,,East Coast
+1790,,,,,East Coast
+1791,,,,,East Coast
+1792,,,,,East Coast
+1793,,,,,East Coast
+1794,,,,,East Coast
+1795,,,,,East Coast
+1796,,,,,East Coast
+1797,,,,,East Coast
+1798,,,,,East Coast
+1799,,,,,East Coast
+1800,,,,,East Coast
+1801,,,,,East Coast
+1802,,,,,East Coast
+1803,,,,,East Coast
+1804,,,,,East Coast
+1805,,,,,East Coast
+1806,,,,,East Coast
+1807,,,,,East Coast
+1808,,,,,East Coast
+1809,,,,,East Coast
+1810,,,,,East Coast
+1811,,,,,East Coast
+1812,,,,,Gulf of America
+1813,,,,,Gulf of America
+1814,,,,,Gulf of America
+1815,,,,,Gulf of America
+1816,,,,,Gulf of America
+1817,,,,,Gulf of America
+1818,,,,,Gulf of America
+1819,,,,,Gulf of America
+1820,,,,,Gulf of America
+1821,,,,,Gulf of America
+1822,,,,,Gulf of America
+1823,,,,,East Coast
+1824,,,,,East Coast
+1825,,,,,West Coast
+1826,,,,,West Coast
+1827,,,,,West Coast
+1828,,,,,West Coast
+1829,,,,,West Coast
+1830,,,,,West Coast
+1831,,,,,West Coast
+1832,,,,,West Coast
+1833,,,,,West Coast
+1834,,,,,East Coast
+1835,,,,,East Coast
+1836,,,,,East Coast
+1837,,,,,East Coast
+1838,,,,,East Coast
+1839,,,,,East Coast
+1840,,,,,East Coast
+1841,,,,,East Coast
+1842,,,,,East Coast
+1843,,,,,East Coast
+1844,,,,,East Coast
+1845,,,,,East Coast
+1846,,,,,East Coast
+1847,,,,,East Coast
+1848,,,,,East Coast
+1849,,,,,East Coast
+1850,,,,,East Coast
+1851,,,,,East Coast
+1852,,,,,East Coast
+1853,,,,,Caribbean
+1854,,,,,Caribbean
+1855,,,,,Caribbean
+1856,,,,,Gulf of America
+1857,,,,,Gulf of America
+1858,,,,,Gulf of America
+1859,,,,,Gulf of America
+1860,,,,,Gulf of America
+1861,,,,,West Coast
+1862,,,,,West Coast
+1863,,,,,West Coast
+1864,,,,,West Coast
+1865,,,,,West Coast
+1866,,,,,West Coast
+1867,,,,,East Coast
+1868,,,,,Great Lakes
+1869,,,,,Great Lakes
+1870,,,,,Great Lakes
+1871,,,,,Great Lakes
+1872,,,,,Great Lakes
+1873,,,,,Caribbean
+1874,,,,,Caribbean
+1875,,,,,Caribbean
+1876,,,,,Caribbean
+1877,,,,,Caribbean
+1878,,,,,Caribbean
+1879,,,,,Caribbean
+1880,,,,,Caribbean
+1881,,,,,Gulf of America
+1882,,,,,Gulf of America
+1883,,,,,Gulf of America
+1884,,,,,West Coast
+1885,,,,,West Coast
+1886,,,,,West Coast
+1887,,,,,West Coast
+1888,,,,,West Coast
+1889,,,,,West Coast
+1890,,,,,West Coast
+1891,,,,,West Coast
+1892,,,,,Great Lakes
+1893,,,,,Great Lakes
+1894,,,,,West Coast
+1895,,,,,West Coast
+1896,,,,,West Coast
+1897,,,,,Caribbean
+1898,,,,,Caribbean
+1899,,,,,Gulf of America
+1900,,,,,Gulf of America
+1901,,,,,Gulf of America
+1902,,,,,Gulf of America
+1903,,,,,Gulf of America
+1904,,,,,Gulf of America
+1905,,,,,West Coast
+1906,,,,,West Coast
+1907,,,,,West Coast
+1908,,,,,West Coast
+1909,,,,,West Coast
+1910,,,,Abandoned,West Coast
+1911,,,,,West Coast
+1912,,,,,West Coast
+1913,,,,,West Coast
+1914,,,,,West Coast
+1915,,,,,West Coast
+1916,,,,,East Coast
+1917,,,,,East Coast
+1918,,,,,East Coast
+1919,,,,,East Coast
+1920,,,,,East Coast
+1921,,,,,East Coast
+1922,,,,,East Coast
+1923,,,,,East Coast
+1924,,,,,East Coast
+1925,,,,,Gulf of America
+1926,,,,,Gulf of America
+1927,,,,,Gulf of America
+1928,,,,,Gulf of America
+1929,,,,,Gulf of America
+1930,,,,,Gulf of America
+1931,,,,,Gulf of America
+1932,,,,,West Coast
+1933,,,,,West Coast
+1934,,,,,West Coast
+1935,,,,,West Coast
+1936,,,,,West Coast
+1937,,,,,West Coast
+1938,,,,,West Coast
+1939,,,,,West Coast
+1940,,,,,West Coast
+1941,,,,,West Coast
+1942,,,,,West Coast
+1943,,,,,West Coast
+1944,,,,,East Coast
+1945,,,,Abandoned,East Coast
+1946,,,,,East Coast
+1947,,,,,East Coast
+1948,,,,,East Coast
+1949,,,,,East Coast
+1950,,,,,East Coast
+1951,,,,,East Coast
+1952,,,,,East Coast
+1953,,,,,East Coast
+1954,,,,,East Coast
+1955,,,,,East Coast
+1956,,,,,East Coast
+1957,,,,,East Coast
+1958,,,,,East Coast
+1959,,,,,East Coast
+1960,,,,,East Coast
+1961,,,,,East Coast
+1962,,,,,East Coast
+1963,,,,,East Coast
+1964,,,,,East Coast
+1965,,,,,East Coast
+1966,,,,,East Coast
+1967,,,,,East Coast
+1968,,,,,East Coast
+1969,,,,,East Coast
+1970,,,,,East Coast
+1971,,,,,East Coast
+1972,,,,,East Coast
+1973,,,,,East Coast
+1974,,,,,East Coast
+1975,,,,,East Coast
+1976,,,,,East Coast
+1977,,,,,East Coast
+1978,,,,,East Coast
+1979,,,,,East Coast
+1980,,,,,East Coast
+1981,,,,,East Coast
+1982,Y-49,Long Island Sound Cable,New York Power Authority,In Service,East Coast
+1983,,,,,East Coast
+1984,,,,,East Coast
+1985,,,,,East Coast
+1986,,,,,East Coast
+1987,,,,,East Coast
+1988,,,,,East Coast
+1989,,,,,East Coast
+1990,,,,,East Coast
+1991,,,,,East Coast
+1992,,,,,East Coast
+1993,,,,,East Coast
+1994,,,,,East Coast
+1995,,,,,East Coast
+1996,,,,,East Coast
+1997,,,,,East Coast
+1998,,,,,East Coast
+1999,,,,,East Coast
+2000,,,,,East Coast
+2001,,,,,East Coast
+2002,,,,,East Coast
+2003,,,,,East Coast
+2004,,,,,East Coast
+2005,,,,,East Coast
+2006,,,,,East Coast
+2007,,,,,East Coast
+2008,,,,,East Coast
+2009,,,,,East Coast
+2010,,,,,East Coast
+2011,,,,,East Coast
+2012,,,,,East Coast
+2013,,,,,East Coast
+2014,,,,,East Coast
+2015,,,,,East Coast
+2016,,,,,East Coast
+2017,,,,,East Coast
+2018,,,,,East Coast
+2019,,,,,East Coast
+2020,,,,,East Coast
+2021,,,,,East Coast
+2022,,,,,East Coast
+2023,,,,,East Coast
+2024,,,,,East Coast
+2025,,,,Abandoned,East Coast
+2026,,,,,East Coast
+2027,,,,,East Coast
+2028,,,,,East Coast
+2029,,,,,East Coast
+2030,,,,,East Coast
+2031,,,,,East Coast
+2032,,,,,East Coast
+2033,,,,,East Coast
+2034,,,,,East Coast
+2035,,,,,East Coast
+2036,,,,,East Coast
+2037,,,,,East Coast
+2038,,,,,East Coast
+2039,,,,,East Coast
+2040,,,,,East Coast
+2041,,,,,East Coast
+2042,,,,,East Coast
+2043,,,,,East Coast
+2044,,,,,East Coast
+2045,,,,,East Coast
+2046,,,,,East Coast
+2047,,,,,East Coast
+2048,,,,,East Coast
+2049,,,,,East Coast
+2050,,,,,East Coast
+2051,,,,,East Coast
+2052,,,,,East Coast
+2053,,,,,East Coast
+2054,,,,,East Coast
+2055,,,,,East Coast
+2056,,,,,East Coast
+2057,,,,,East Coast
+2058,,,,,East Coast
+2059,,,,,East Coast
+2060,,,,,East Coast
+2061,,,,,East Coast
+2062,,,,,East Coast
+2063,,,,,East Coast
+2064,,,,,East Coast
+2065,,,,,East Coast
+2066,,,,,East Coast
+2067,,,,,East Coast
+2068,,,,,East Coast
+2069,,,,,East Coast
+2070,,,,,East Coast
+2071,,,,,East Coast
+2072,,,,,East Coast
+2073,,,,,East Coast
+2074,,,,,East Coast
+2075,,,,,East Coast
+2076,,,,,East Coast
+2077,,,,,East Coast
+2078,,,,,East Coast
+2079,,,,,East Coast
+2080,,,,,East Coast
+2081,,,,,East Coast
+2082,,,,,East Coast
+2083,,,,,East Coast
+2084,,,,,East Coast
+2085,,,,,East Coast
+2086,,,,,East Coast
+2087,,,,,East Coast
+2088,,,,,East Coast
+2089,,,,,East Coast
+2090,,,,,East Coast
+2091,,,,,East Coast
+2092,,,,,East Coast
+2093,,,,,East Coast
+2094,,,,,East Coast
+2095,,,,,East Coast
+2096,,,,,East Coast
+2097,,,,,East Coast
+2098,,,,,East Coast
+2099,,,,,East Coast
+2100,,,,,East Coast
+2101,,,,,East Coast
+2102,,,,,East Coast
+2103,,,,,East Coast
+2104,,,,,East Coast
+2105,,,,,East Coast
+2106,,,,,East Coast
+2107,,,,,East Coast
+2108,,,,,East Coast
+2109,,,,,East Coast
+2110,,,,,East Coast
+2111,,,,,East Coast
+2112,,,,,East Coast
+2113,,,,,East Coast
+2114,,,,,East Coast
+2115,,,,,Great Lakes
+2116,,,,,East Coast
+2117,,,,,East Coast
+2118,,,,,East Coast
+2119,,,,,East Coast
+2120,,,,,East Coast
+2121,,,,,East Coast
+2122,,,,,East Coast
+2123,,,,Abandoned,East Coast
+2124,,,,,East Coast
+2125,,,,,East Coast
+2126,,,,,East Coast
+2127,,,,,East Coast
+2128,,,,,East Coast
+2129,,,,,East Coast
+2130,,,,,East Coast
+2131,,,,,East Coast
+2132,,,,,East Coast
+2133,,,,,East Coast
+2134,,,,,East Coast
+2135,,,,,East Coast
+2136,,,,,East Coast
+2137,,,,,East Coast
+2138,,,,,East Coast
+2139,,,,,East Coast
+2140,,,,Abandoned,East Coast
+2141,,,,,East Coast
+2142,,,,,East Coast
+2143,,,,,Great Lakes
+2144,,,,,Great Lakes
+2145,,,,,Great Lakes
+2146,,,,,East Coast
+2147,,,,,East Coast
+2148,,,,,East Coast
+2149,,,,,East Coast
+2150,,,,,East Coast
+2151,,,,,East Coast
+2152,,,,,East Coast
+2153,,,,,East Coast
+2154,,,,,East Coast
+2155,,,,,East Coast
+2156,,,,,East Coast
+2157,,,,,East Coast
+2158,,,,,East Coast
+2159,,,,,East Coast
+2160,,,,,East Coast
+2161,,,,,East Coast
+2162,,,,,East Coast
+2163,,,,,East Coast
+2164,,,,,East Coast
+2165,,,,,East Coast
+2166,,,,,East Coast
+2167,,,,,East Coast
+2168,,,,,East Coast
+2169,,,,,East Coast
+2170,,,,,Great Lakes
+2171,,,,,Great Lakes
+2172,,,,,Great Lakes
+2173,,,,,Great Lakes
+2174,,,,,Great Lakes
+2175,,,,,Great Lakes
+2176,,,,,Great Lakes
+2177,,,,,Great Lakes
+2178,,,,,Great Lakes
+2179,,,,,Great Lakes
+2180,,,,,Great Lakes
+2181,,,,,East Coast
+2182,,,,,East Coast
+2183,,,,,East Coast
+2184,,,,,East Coast
+2185,,,,,East Coast
+2186,,,,,East Coast
+2187,,,,,East Coast
+2188,,,,,East Coast
+2189,,,,,East Coast
+2190,,,,,East Coast
+2191,,,,,East Coast
+2192,,,,,East Coast
+2193,,,,,East Coast
+2194,,,,,East Coast
+2195,,,,,East Coast
+2196,,,,,East Coast
+2197,,,,,East Coast
+2198,,,,,East Coast
+2199,,,,,East Coast
+2200,,,,,East Coast
+2201,,,,,East Coast
+2202,,,,,East Coast
+2203,,,,,East Coast
+2204,,,,,East Coast
+2205,,,,,East Coast
+2206,,,,,East Coast
+2207,,,,,East Coast
+2208,,,,,Great Lakes
+2209,,,,,Great Lakes
+2210,,,,,Great Lakes
+2211,,,,,Great Lakes
+2212,,,,,East Coast
+2213,,,,,East Coast
+2214,,,,,East Coast
+2215,,,,,East Coast
+2216,,,,,East Coast
+2217,,,,,East Coast
+2218,,,,,East Coast
+2219,,,,,East Coast
+2220,,,,,East Coast
+2221,,,,,East Coast
+2222,,,,,East Coast
+2223,,,,,East Coast
+2224,,,,,East Coast
+2225,,,,,East Coast
+2226,,,,,East Coast
+2227,,,,,East Coast
+2228,,,,,East Coast
+2229,,,,,East Coast
+2230,,,,,East Coast
+2231,,,,,East Coast
+2232,,,,,East Coast
+2233,,,,,East Coast
+2234,,,,,Great Lakes
+2235,,,,,Great Lakes
+2236,,,,,Great Lakes
+2237,,,,,Great Lakes
+2238,,,,,Great Lakes
+2239,,Telephone Cable,,,Great Lakes
+2240,,,,,Great Lakes
+2241,,,,,Great Lakes
+2242,,,,,East Coast
+2243,,,,,East Coast
+2244,,,,,East Coast
+2245,,,,,East Coast
+2246,,,,,East Coast
+2247,,,,,East Coast
+2248,,,,,East Coast
+2249,,,,,East Coast
+2250,,,,,East Coast
+2251,,,,,East Coast
+2252,,,,,East Coast
+2253,,,,,East Coast
+2254,,,,,East Coast
+2255,,,,,East Coast
+2256,,,,,East Coast
+2257,,,,,East Coast
+2258,,,,,East Coast
+2259,,,,,East Coast
+2260,,,,,East Coast
+2261,,,,,East Coast
+2262,,,,,East Coast
+2263,,,,,East Coast
+2264,,,,,East Coast
+2265,,,,,East Coast
+2266,,,,,East Coast
+2267,,,,,East Coast
+2268,,,,,Great Lakes
+2269,,,,,Great Lakes
+2270,,,,,Great Lakes
+2271,,,,,Great Lakes
+2272,,,,,Great Lakes
+2273,,,,,Great Lakes
+2274,,,,,Great Lakes
+2275,,,,,East Coast
+2276,,,,,East Coast
+2277,,,,,East Coast
+2278,,,,,East Coast
+2279,,,,,East Coast
+2280,,,,,East Coast
+2281,,,,,East Coast
+2282,,,,,East Coast
+2283,,,,,East Coast
+2284,,,,,East Coast
+2285,,,,,East Coast
+2286,,,,,East Coast
+2287,,,,,East Coast
+2288,,,,,East Coast
+2289,,,,,East Coast
+2290,,,,,East Coast
+2291,,,,,East Coast
+2292,,,,,East Coast
+2293,,,,,East Coast
+2294,,,,,East Coast
+2295,,,,,East Coast
+2296,,,,,East Coast
+2297,,,,,East Coast
+2298,,,,,East Coast
+2299,,,,,East Coast
+2300,,,,,East Coast
+2301,,,,,East Coast
+2302,,,,,East Coast
+2303,,,,,East Coast
+2304,,,,,East Coast
+2305,,,,,East Coast
+2306,,,,,East Coast
+2307,,,,,Great Lakes
+2308,,,,,Gulf of America
+2309,,,,,Gulf of America
+2310,,,,,Gulf of America
+2311,,,,,Gulf of America
+2312,,,,,Gulf of America
+2313,,,,,Gulf of America
+2314,,,,,East Coast
+2315,,,,,East Coast
+2316,,,,,East Coast
+2317,,,,,East Coast
+2318,,,,,East Coast
+2319,,,,,East Coast
+2320,,,,,East Coast
+2321,,,,,East Coast
+2322,,,,,East Coast
+2323,,,,,East Coast
+2324,,,,,East Coast
+2325,,,,,East Coast
+2326,,,,,East Coast
+2327,,,,,East Coast
+2328,,,,,East Coast
+2329,,,,,East Coast
+2330,,,,,East Coast
+2331,,,,,East Coast
+2332,,,,,East Coast
+2333,,,,,East Coast
+2334,,,,,East Coast
+2335,,,,,East Coast
+2336,,,,,East Coast
+2337,,,,,East Coast
+2338,,,,,East Coast
+2339,,,,,Gulf of America
+2340,,,,,Gulf of America
+2341,,,,,East Coast
+2342,,,,,East Coast
+2343,,,,,East Coast
+2344,,,,,East Coast
+2345,,,,,East Coast
+2346,,,,,East Coast
+2347,,,,Abandoned,East Coast
+2348,,,,,East Coast
+2349,,,,Abandoned,East Coast
+2350,,,,Abandoned,East Coast
+2351,,,Department of Defense,Out of Service,East Coast
+2352,,,,,East Coast
+2353,,,,,East Coast
+2354,,,,,East Coast
+2355,,,,,East Coast
+2356,,,,,East Coast
+2357,,,,,East Coast
+2358,,,,,East Coast
+2359,,,,,East Coast
+2360,,,,,East Coast
+2361,,,,,East Coast
+2362,,,,,East Coast
+2363,,,,,East Coast
+2364,,,,,East Coast
+2365,,,,,East Coast
+2366,,,,,East Coast
+2367,,,,,East Coast
+2368,,,,,East Coast
+2369,,,,,East Coast
+2370,,,,,East Coast
+2371,,,,,East Coast
+2372,,,,,East Coast
+2373,,,,,East Coast
+2374,,,,,East Coast
+2375,,,,Abandoned,East Coast
+2376,,,,,East Coast
+2377,,,,,East Coast
+2378,,,,,East Coast
+2379,,,,,East Coast
+2380,,,,,East Coast
+2381,,,,,East Coast
+2382,,,,,East Coast
+2383,,,,,East Coast
+2384,,,,,East Coast
+2385,,,,Abandoned,East Coast
+2386,,,,,East Coast
+2387,,,,,East Coast
+2388,,,,,East Coast
+2389,,,,Abandoned,East Coast
+2390,,,,Abandoned,East Coast
+2391,,,,Abandoned,East Coast
+2392,,,,,East Coast
+2393,,,,,East Coast
+2394,,,,,East Coast
+2395,,,,,East Coast
+2396,,,,,East Coast
+2397,,,,,East Coast
+2398,,,,,East Coast
+2399,,,,,East Coast
+2400,,,,,East Coast
+2401,,,,,East Coast
+2402,,,,,East Coast
+2403,,,,,East Coast
+2404,,,,,East Coast
+2405,,,,,East Coast
+2406,,,,,East Coast
+2407,,,,,East Coast
+2408,,,,,East Coast
+2409,,,,,East Coast
+2410,,,,,East Coast
+2411,,,,,East Coast
+2412,,,,,East Coast
+2413,,,,,East Coast
+2414,,,,,East Coast
+2415,,,,,East Coast
+2416,,,,,East Coast
+2417,,,,,East Coast
+2418,,,,,East Coast
+2419,,,,,East Coast
+2420,,,,,East Coast
+2421,,,,,East Coast
+2422,,,,,East Coast
+2423,,,,Abandoned,East Coast
+2424,,,,,East Coast
+2425,,,,,East Coast
+2426,,,,Abandoned,East Coast
+2427,,,,Abandoned,East Coast
+2428,,,,,East Coast
+2429,,,,,East Coast
+2430,,,,,East Coast
+2431,,,,,East Coast
+2432,,,,,East Coast
+2433,,,,,East Coast
+2434,,,,,East Coast
+2435,,,,,East Coast
+2436,,,,,East Coast
+2437,,,,,East Coast
+2438,,,,,East Coast
+2439,,,,,East Coast
+2440,,,,,East Coast
+2441,,,,,East Coast
+2442,,,,,East Coast
+2443,,,,,East Coast
+2444,,,,,East Coast
+2445,,,,,East Coast
+2446,,,,,East Coast
+2447,,,,,East Coast
+2448,,,,,East Coast
+2449,,,,,East Coast
+2450,,,,,East Coast
+2451,,,,,East Coast
+2452,,,,,East Coast
+2453,,,,,East Coast
+2454,,,,,East Coast
+2455,,,,Abandoned,East Coast
+2456,,,,Abandoned,East Coast
+2457,,Power Transmission Cable,,,East Coast
+2458,,,,,East Coast
+2459,,,,,East Coast
+2460,,,,,East Coast
+2461,,,,,West Coast
+2462,,,,,West Coast
+2463,,,,,West Coast
+2464,,,,,West Coast
+2465,,,,,West Coast
+2466,,,,,West Coast
+2467,,,,,West Coast
+2468,,,,,West Coast
+2469,,,,,West Coast
+2470,,,,,West Coast
+2471,,,,,West Coast
+2472,,,,,West Coast
+2473,,,,,West Coast
+2474,,,,,West Coast
+2475,,,,,West Coast
+2476,,,,,West Coast
+2477,,,,,West Coast
+2478,,,,,West Coast
+2479,,,,,West Coast
+2480,,,,,West Coast
+2481,,,,,West Coast
+2482,,,,,West Coast
+2483,,,,,West Coast
+2484,,,,,West Coast
+2485,,,,,West Coast
+2486,,,,,West Coast
+2487,,,,,West Coast
+2488,,,,,West Coast
+2489,,,,,West Coast
+2490,,,,,West Coast
+2491,,,,,West Coast
+2492,,,,,West Coast
+2493,,,,,West Coast
+2494,,,,,West Coast
+2495,,,,,West Coast
+2496,,,,,West Coast
+2497,,,,,West Coast
+2498,,,,,West Coast
+2499,,,,,West Coast
+2500,,,,,West Coast
+2501,,,,,West Coast
+2502,,,,,West Coast
+2503,,,,,West Coast
+2504,,,,,West Coast
+2505,,,,,West Coast
+2506,,,,,West Coast
+2507,,,,,West Coast
+2508,,,,,West Coast
+2509,,,,,West Coast
+2510,,,,,West Coast
+2511,,,,,West Coast
+2512,,,,,West Coast
+2513,,,,,West Coast
+2514,,,,,West Coast
+2515,,,,,West Coast
+2516,,,,,West Coast
+2517,,,,,West Coast
+2518,,,,,West Coast
+2519,,,,,West Coast
+2520,,,,,West Coast
+2521,,,,,West Coast
+2522,,,,,West Coast
+2523,,,,,West Coast
+2524,,,,,West Coast
+2525,,,,,West Coast
+2526,,,,,Great Lakes
+2527,,,,,Great Lakes
+2528,,,,,Great Lakes
+2529,,,,,Great Lakes
+2530,,,,,Great Lakes
+2531,,,,,Great Lakes
+2532,,,,,Great Lakes
+2533,,,,,Great Lakes
+2534,,,,,Great Lakes
+2535,,,,,Great Lakes
+2536,,,,,Gulf of America
+2537,,,,,Gulf of America
+2538,,,,,Gulf of America
+2539,,,,,Gulf of America
+2540,,,,,Gulf of America
+2541,,,,,Gulf of America
+2542,,,,,Gulf of America
+2543,,,,,Gulf of America
+2544,,,,,Gulf of America
+2545,,,,,West Coast
+2546,,,,,Gulf of America
+2547,,,,,Gulf of America
+2548,,,,,Gulf of America
+2549,,,,,East Coast
+2550,,,,,East Coast
+2551,,,,,East Coast
+2552,,,,,East Coast
+2553,,,,,East Coast
+2554,,,,,East Coast
+2555,,,,,East Coast
+2556,,,,,East Coast
+2557,,,,,East Coast
+2558,,,,,East Coast
+2559,,,,,East Coast
+2560,,,,,East Coast
+2561,,,,,East Coast
+2562,,,,,Gulf of America
+2563,,,,,Gulf of America
+2564,,,,,Gulf of America
+2565,,,,,Gulf of America
+2566,,,,,East Coast
+2567,,,,,Gulf of America
+2568,,,,,East Coast
+2569,,,,,East Coast
+2570,,,,,East Coast
+2571,,,,,East Coast
+2572,,,,,Gulf of America
+2573,,,,,East Coast
+2574,,,,,East Coast
+2575,,,,,East Coast
+2576,,,,,East Coast
+2577,,,,,East Coast
+2578,,,,,Gulf of America
+2579,,,,,Gulf of America
+2580,,,,,East Coast
+2581,,,,,East Coast
+2582,,,,,East Coast
+2583,,,,,Gulf of America
+2584,,,,,Gulf of America
+2585,,,,,Gulf of America
+2586,,,,,Gulf of America
+2587,,,,,Gulf of America
+2588,,,,,East Coast
+2589,,,,,East Coast
+2590,,,,,East Coast
+2591,,,,,East Coast
+2592,,,,,East Coast
+2593,,,,,East Coast
+2594,,,,,West Coast
+2595,,,,,West Coast
+2596,,,,,Gulf of America
+2597,,,,,Gulf of America
+2598,,,,,Gulf of America
+2599,,,,,Gulf of America
+2600,,,,,Gulf of America
+2601,,,,,West Coast
+2602,,,,,West Coast
+2603,,,,,West Coast
+2604,,,,,West Coast
+2605,,,,,West Coast
+2606,,,,,Gulf of America
+2607,,,,,Gulf of America
+2608,,,,,Gulf of America
+2609,,Mackinac Power Cable,American Transmission Company,In Service,Great Lakes
+2610,,,,,West Coast
+2611,,,,,West Coast
+2612,,,,,West Coast
+2613,,,,,West Coast
+2614,,,,,West Coast
+2615,,,,,West Coast
+2616,,,,,East Coast
+2617,,,,,West Coast
+2618,,,,,West Coast
+2619,,,,,West Coast
+2620,,,,,West Coast
+2621,,,,,East Coast
+2622,,,,,East Coast
+2623,,,,,East Coast
+2624,,,,,Gulf of America
+2625,,,,,Gulf of America
+2626,,,,,Gulf of America
+2627,,,,,Gulf of America
+2628,,,,,Gulf of America
+2629,,,,,Gulf of America
+2630,,,,,Gulf of America
+2631,,,,,East Coast
+2632,,,Tidelands Electric Membership Corp,In Service,East Coast
+2633,,,,,West Coast
+2634,,,,,Great Lakes
+2635,,,,,Gulf of America
+2636,,,,,East Coast
+2637,,,,,East Coast
+2638,,,,,East Coast
+2639,,,,,West Coast
+2640,,,,,West Coast
+2641,,,,,West Coast
+2642,,Power Transmission Cable,<Null>,,East Coast
+2643,,,,,Pacific Northwest
+2644,,,,,Pacific Northwest
+2645,,,,,Pacific Northwest
+2646,,,,,Pacific Northwest
+2647,,,,,Pacific Northwest
+2648,,,,,Pacific Northwest
+2649,,,,,Pacific Northwest
+2650,,,,,Pacific Northwest
+2651,,,,,Pacific Northwest
+2652,,,,,Pacific Northwest
+2653,,,,,Pacific Northwest
+2654,,,,,Pacific Northwest
+2655,,,,,Pacific Northwest
+2656,,,,,Pacific Northwest
+2657,,,,,Pacific Northwest
+2658,,,,,Pacific Northwest
+2659,,,,,Pacific Northwest
+2660,,,,,Pacific Northwest
+2661,,,,,Pacific Northwest
+2662,,,,,Pacific Northwest
+2663,,,,Abandoned,Pacific Northwest
+2664,,,,Abandoned,Pacific Northwest
+2665,,,,Abandoned,Pacific Northwest
+2666,,,,,Pacific Northwest
+2667,,,,,Pacific Northwest
+2668,,,,,Pacific Northwest
+2669,,,,,Pacific Northwest
+2670,,,,Abandoned,Pacific Northwest
+2671,,,,,Pacific Northwest
+2672,,,,Abandoned,Pacific Northwest
+2673,,,,,Pacific Northwest
+2674,,,,Abandoned,Pacific Northwest
+2675,,,,,Pacific Northwest
+2676,,,,,Pacific Northwest
+2677,,Telephone Cable,,,Pacific Northwest
+2678,,Telephone Cable,,,Pacific Northwest
+2679,,,,Abandoned,Pacific Northwest
+2680,,,,,Pacific Northwest
+2681,,,,,Pacific Northwest
+2682,,,,,Pacific Northwest
+2683,,,,,Pacific Northwest
+2684,,,,,Pacific Northwest
+2685,,,,,Pacific Northwest
+2686,,,,,Pacific Northwest
+2687,,,,Abandoned,Pacific Northwest
+2688,,,,,Pacific Northwest
+2689,,,,,Pacific Northwest
+2690,,,,,Pacific Northwest
+2691,,,,,Pacific Northwest
+2692,,,,,Pacific Northwest
+2693,,,,,Pacific Northwest
+2694,,,,,Pacific Northwest
+2695,,,,,Pacific Northwest
+2696,,,,,Pacific Northwest
+2697,,,,,Pacific Northwest
+2698,,,,,Pacific Northwest
+2699,,,,,Pacific Northwest
+2700,,,,,Pacific Northwest
+2701,,,,,West Coast
+2702,,,,,West Coast
+2703,,,,,West Coast
+2704,,,,,West Coast
+2705,,,,,West Coast
+2706,,,,,East Coast
+2707,,,,,East Coast
+2708,,,,,East Coast
+2709,AmeriCan 1-B,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2710,AmeriCan 1-C,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2711,AmeriCan 1-C,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2712,AmeriCan 1-C,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2713,,,,,West Coast
+2714,AmeriCan 1-C,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2715,,,,,West Coast
+2716,AmeriCan 1-A,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2717,AmeriCan 1-A,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2718,AmeriCan 1-A,American-Canada 1,Front Range Topco Inc,In Service,West Coast
+2719,Oahu Sub Tie,Oahu Sub Tie,,Abandoned,Pacific Islands
+2720,,,,,Pacific Northwest
+2721,SEAPA,Southeast Alaska Power Agency,Southeast Alaska Power Agency,In Service,Pacific Northwest
+2722,3 x 230 kV,Embarcadero-Potrero,Pacific Gas and Electric,In Service,West Coast
+2723,FiberWeb,FinerWeb,Petroleum Communications Inc,In Service,Gulf of America
+2724,AJC,Australia Japan Cable,AJC Ltd,In Service,Pacific Islands
+2725,Guam Philippines,Guam Philippines,AT&T Corp,Out of Service,Pacific Islands
+2726,GOKI,Guam Okinawa Kyushu Incheon Cable,AT&T Corp,In Service,Pacific Islands
+2727,Echo,Echo Cable System,Edge USA and GU Holdings,In Service,Pacific Islands
+2728,Hawaii Guam 2,Hawaii Guam 2,AT&T Corp,Out of Service,Pacific Islands
+2729,AAG,Asia America Gateway,AT&T Corp,In Service,Pacific Islands
+2730,TPC 5,Transpacific Cable 5,Allied Capital Corporation,Out of Service,Pacific Islands
+2731,AJC,Australia Japan Cable,AJC Ltd,In Service,Pacific Islands
+2732,China U.S.,China U.S. Cable Network,AT&T Corp,Out of Service,Pacific Islands
+2733,GPT,Guam Philippines Taiwan,AT&T Corp,Out of Service,Pacific Islands
+2734,AAG,Asia America Gateway,AT&T Corp,In Service,Pacific Islands
+2735,MICS,MTC Interisland Cable System,PTI Pacifica,In Service,Pacific Islands
+2736,APRICOT,Apricot Cable System,GU Holdings Inc,In Service,Pacific Islands
+2737,SEA U.S. West,Southeast Asia U.S. Cable System,GTA,In Service,Pacific Islands
+2738,SEA U.S. East,Southeast Asia U.S. Cable System,GTA,In Service,Pacific Islands
+2739,Atisa,Atisa System,Docomo Pacific Inc,In Service,Pacific Islands
+2740,JGA S,Japan Guam Australia South,RTI Cables,In Service,Pacific Islands
+2741,JGA N,Japan Guam Australia North,RTI Cables,In Service,Pacific Islands
+2742,TGN P,Tata Global Networks Pacific,Tata Communications,In Service,Pacific Islands
+2744,AMX1,America Movil Submarine Cable System,América Móvil,In Service,Caribbean
+2745,AMX1,America Movil Submarine Cable System,América Móvil,In Service,Caribbean
+2746,AMX1,America Movil Submarine Cable System,América Móvil,In Service,Caribbean
+2747,Anjana,Anjana System,Edge USA,In Service,East Coast
+2748,Anjana,Anjana System,Edge USA,In Service,East Coast
+2749,Bifrost,Bifrost Cable System,Edge USA,In Service,West Coast
+2750,Bifrost,Bifrost Cable System,Edge USA,In Service,West Coast
+2751,Bifrost,Bifrost Cable System,Edge USA,In Service,West Coast
+2752,Bifrost,Bifrost Cable System,Edge USA,In Service,West Coast
+2753,Bifrost,Bifrost Cable System,Edge USA,In Service,West Coast
+2754,Bifrost,Bifrost Cable System,Edge USA,In Service,West Coast
+2755,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2756,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2757,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2758,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2759,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2760,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2761,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2762,Bifrost,Bifrost Cable System,Edge USA,In Service,Pacific Islands
+2764,CAP 1,California Philippines,Edge USA,In Service,West Coast
+2765,CAP 1,California Philippines,Edge USA,In Service,West Coast
+2766,CAP 1,California Philippines,Edge USA,In Service,West Coast
+2767,CAP 1,California Philippines,Edge USA,In Service,West Coast
+2768,CAP 1,California Philippines,Edge USA,In Service,West Coast
+2769,CAP 1,California Philippines,Edge USA,In Service,West Coast
+2770,CAP 1,California Philippines,Edge USA,In Service,West Coast
+2771,Echo,Echo Cable System,Edge USA,In Service,West Coast
+2772,Echo,Echo Cable System,Edge USA,In Service,West Coast
+2773,Echo,Echo Cable System,Edge USA,In Service,West Coast
+2775,Echo,Echo Cable System,Edge USA,In Service,Pacific Islands
+2776,Echo,Echo Cable System,Edge USA,In Service,Pacific Islands
+2777,Echo,Echo Cable System,Edge USA,In Service,Pacific Islands
+2778,Echo,Echo Cable System,Edge USA,In Service,Pacific Islands
+2779,Echo,Echo Cable System,Edge USA,In Service,Pacific Islands
+2780,Echo,Echo Cable System,Edge USA,In Service,Pacific Islands
+2781,EGTTR,Eglin Gulf Test and Training Range,Department of Defense,In Service,Gulf of America
+2782,EGTTR,Eglin Gulf Test and Training Range,Department of Defense,In Service,Gulf of America
+2783,EGTTR,Eglin Gulf Test and Training Range,Department of Defense,In Service,Gulf of America
+2784,FOCUS 2,Fiber Optic Communication Undersea System,Department of Defense,In Service,West Coast
+2785,FOCUS 2,Fiber Optic Communication Undersea System,Department of Defense,In Service,West Coast
+2786,FOCUS 2,Fiber Optic Communication Undersea System,Department of Defense,In Service,West Coast
+2787,FOCUS 2,Fiber Optic Communication Undersea System,Department of Defense,In Service,West Coast
+2788,FOCUS 2,Fiber Optic Communication Undersea System,Department of Defense,In Service,West Coast
+2789,FOCUS 2,Fiber Optic Communication Undersea System,Department of Defense,In Service,West Coast
+2790,FOCUS 2,Fiber Optic Communication Undersea System,Department of Defense,In Service,West Coast
+2791,GTMO SFOC,Guantanamo Bay to Dania Beach Submarine Fiber Optic Cable,Department of Defense,In Service,East Coast
+2793,Kaneohe,Kaneohe,Department of Defense,In Service,Pacific Islands
+2794,CVOW,Coastal Virginia Offshore Wind,Dominion Energy,Under Construction,East Coast
+2795,PMRF,Pacific Missile Range Facility,Department of Defense,In Service,Pacific Islands
+2796,PMRF,Pacific Missile Range Facility,Department of Defense,In Service,Pacific Islands
+2797,PMRF,Pacific Missile Range Facility,Department of Defense,In Service,Pacific Islands
+2798,PMRF,Pacific Missile Range Facility,Department of Defense,In Service,Pacific Islands
+2799,PMRF,Pacific Missile Range Facility,Department of Defense,In Service,Pacific Islands
+2801,SCIRC,San Clemente Island Range Complex,Department of Defense,In Service,West Coast
+2802,SCIRC,San Clemente Island Range Complex,Department of Defense,In Service,West Coast
+2803,SCIRC,San Clemente Island Range Complex,Department of Defense,In Service,West Coast
+2804,SCIRC,San Clemente Island Range Complex,Department of Defense,In Service,West Coast
+2805,SCIRC,San Clemente Island Range Complex,Department of Defense,In Service,West Coast
+2806,SEA U.S.,Southeast Asia U.S.,GTI Corp,In Service,Pacific Islands
+2807,SEA U.S.,Southeast Asia U.S.,GTI Corp,In Service,Pacific Islands
+2808,SEA U.S.,Southeast Asia U.S.,GTI Corp,In Service,Pacific Islands
+2809,SEA U.S.,Southeast Asia U.S.,GTI Corp,In Service,Pacific Islands
+2810,SSRNM,Surface Ship Radiated Noise Measurement,Department of Defense,In Service,Pacific Islands
+2811,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2812,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2813,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2814,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2815,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2816,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2817,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2818,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2819,SX NEXT T7,Southern Cross NEXT,Pacific Carriage Limited Inc,In Service,West Coast
+2820,TPU,Taiwan Philippines U.S.,GU Holdings Inc,In Service,West Coast
+2821,TPU,Taiwan Philippines U.S.,GU Holdings Inc,In Service,West Coast
