@@ -1,21 +1,67 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
 <head>
 
   <meta charset="UTF-8">
-  <title>Cavi internet nei sottomarini</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Submarine Cable Dashboard</title>
+  
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <link rel="stylesheet" href="./style.css">
-
+  <link rel="stylesheet" href="./style.css" />
 
 </head>
 <body>
-
+  
+  <!-- Barra di ricerca -->
   <div id="search-container">
-    <input type="text" id="searchInput" placeholder="Cerca per nome cavo o proprietario...">
+    <input type="text" id="searchInput" placeholder="Search by cable name or owner...">
   </div>
 
-  <div id="map"></div>
+  <!-- Timeline -->
+  <div id="timeline-container">
+    <div class="timeline-header">
+      <span>Timeline</span>
+      <span id="current-year-display">2027</span> 
+    </div>
+    <input type="range" id="yearSlider" min="1866" max="2027" value="2027" step="1">
+    <div class="timeline-years">
+      <span>1866</span>
+      <span>1900</span>
+      <span>1950</span>
+      <span>2000</span>
+      <span>2027</span>
+    </div>
+  </div>
+
+  <!-- Dashboard principale -->
+  <div class="dashboard-container">
+
+    <!-- Mappa e pulsanti -->
+    <div id="map-container">
+      <div id="map"></div>
+      
+      <div class="map-buttons-container">
+        <button id="earthquakeToggle" class="map-button">Show Earthquakes (Real-time)</button>
+        <button id="cycloneToggle" class="map-button">Show Cyclones (Active)</button>
+      </div>
+    </div>
+
+    <!-- Sidebar terremnoti -->
+    <div id="earthquake-sidebar" class="sidebar">
+      <h3>Cables at Risk</h3>
+      <p class="sidebar-subtitle">Based on recent seismic activity</p>
+      <ul id="earthquake-risk-list"></ul>
+    </div>
+
+    <!-- Sidebar cicloni -->
+    <div id="cyclone-sidebar" class="sidebar cyclone-sidebar">
+      <h3>Cables at Risk</h3>
+      <p class="sidebar-subtitle">Based on active cyclones</p>
+      <ul id="cyclone-risk-list"></ul>
+    </div>
+
+  </div>
+
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/leaflet.geodesic@2.7.2/dist/leaflet.geodesic.umd.min.js"></script>
   <script type="module" src="./js/main.js"></script>

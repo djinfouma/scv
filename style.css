@@ -1,33 +1,293 @@
 html, body {
-  height: 100%;
-  margin: 0;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Layout principale */
+.dashboard-container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+/* Mappa */
+#map-container {
+    flex-grow: 1;      
+    position: relative; 
+    height: 100%;
 }
 
 #map {
-  height: 100vh;
-  width: 100vw;
-  overflow: hidden;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
 }
 
+/* Barra di ricerca */
 #search-container {
-  position: absolute;
-  top: 15px;
-  left: 50px;
-  z-index: 1000;
+    position: absolute;
+    top: 15px;
+    left: 50px;
+    z-index: 1000; 
 }
 
 #searchInput {
-  padding: 8px 12px;
-  width: 280px;
-  border-radius: 6px;
-  border: 1px solid #ccc;
-  font-size: 13px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    padding: 8px 12px;
+    width: 280px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 13px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
 }
 
 #searchInput:focus {
-  outline: none;
-  border-color: #6a0dad;
+    outline: none;
+    border-color: #0D3B66;
 }
 
+/* Pulsanti mappa */
+.map-buttons-container {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
 
+.map-button {
+    position: relative;
+    padding: 10px 18px;
+    background-color: #0D3B66;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+.map-button:hover {
+    background-color: #16528a;
+}
+
+/* Slider base */
+.sidebar {
+    width: 350px;      
+    height: 100%;
+    background: #ffffff;
+    border-left: 1px solid #ddd;
+    display: none;      /* Nascosta di default */
+    flex-direction: column;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    box-shadow: -2px 0 5px rgba(0,0,0,0.05);
+}
+
+.sidebar h3 {
+    margin: 0 0 5px 0;
+    font-size: 18px;
+    color: #b30000;  /* Default rosso per terremoti */
+}
+
+/* Sidebar cicloni - titolo blu */
+.cyclone-sidebar h3 {
+    color: #2e86c1;
+}
+
+.sidebar-subtitle {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+/* Liste cavi a rischio */
+#earthquake-risk-list,
+#cyclone-risk-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#earthquake-risk-list li,
+#cyclone-risk-list li {
+    padding: 12px 15px;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background 0.2s;
+    border-left: 3px solid transparent;
+}
+
+#earthquake-risk-list li:hover,
+#cyclone-risk-list li:hover {
+    background-color: #f8f9fa;
+}
+
+/* Hover effetti specifici */
+#earthquake-risk-list li:hover {
+    border-left-color: #b30000;
+    color: #b30000;
+}
+
+#cyclone-risk-list li:hover {
+    border-left-color: #2e86c1;
+    color: #2e86c1;
+}
+
+#earthquake-risk-list li:last-child,
+#cyclone-risk-list li:last-child {
+    border-bottom: none;
+}
+
+/* Nome cavo */
+#earthquake-risk-list li span,
+#cyclone-risk-list li span {
+    flex: 1;
+}
+
+/* Badge magnitudo (terremoti) */
+#earthquake-risk-list li b {
+    color: #b30000;
+    font-size: 13px;
+    font-weight: 600;
+    background-color: rgba(179, 0, 0, 0.05);
+    padding: 4px 10px;
+    border-radius: 20px;
+    letter-spacing: 0.3px;
+}
+
+/* Badge storm (cicloni) */
+#cyclone-risk-list li b {
+    color: #2e86c1;
+    font-size: 13px;
+    font-weight: 600;
+    background-color: rgba(46, 134, 193, 0.05);
+    padding: 4px 10px;
+    border-radius: 20px;
+    letter-spacing: 0.3px;
+}
+
+/* Hover sui badge */
+#earthquake-risk-list li:hover b {
+    background-color: rgba(179, 0, 0, 0.1);
+}
+
+#cyclone-risk-list li:hover b {
+    background-color: rgba(46, 134, 193, 0.1);
+}
+
+/* Timeline */
+#timeline-container {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 15px 25px;
+    border-radius: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    width: 320px;
+    text-align: center;
+    border: 1px solid rgba(255,255,255,0.2);
+}
+
+.timeline-header {
+    margin-bottom: 12px;
+    font-weight: 600;
+    color: #0D3B66;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.timeline-header span:first-child {
+    color: #666;
+    font-weight: 400;
+}
+
+#current-year-display {
+    background: #0D3B66;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    min-width: 60px;
+    display: inline-block;
+}
+
+/* Slider */
+#yearSlider {
+    width: 100%;
+    height: 6px;
+    background: #ddd;
+    outline: none;
+    border-radius: 10px;
+    margin: 10px 0 5px 0;
+    -webkit-appearance: none;
+}
+
+#yearSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 22px;
+    height: 22px;
+    background: white;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 3px solid #0D3B66;
+    box-shadow: 0 2px 10px rgba(13, 59, 102, 0.3);
+    transition: transform 0.1s ease;
+}
+
+#yearSlider::-webkit-slider-thumb:hover {
+    transform: scale(1.15);
+    box-shadow: 0 4px 15px rgba(13, 59, 102, 0.4);
+}
+
+#yearSlider::-moz-range-thumb {
+    width: 22px;
+    height: 22px;
+    background: white;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 3px solid #0D3B66;
+    box-shadow: 0 2px 10px rgba(13, 59, 102, 0.3);
+    transition: transform 0.1s ease;
+}
+
+#yearSlider::-moz-range-thumb:hover {
+    transform: scale(1.15);
+}
+
+/* Anni di riferimento sotto lo slider */
+.timeline-years {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+    color: #999;
+    font-size: 11px;
+    font-weight: 500;
+    padding: 0 5px;
+}
