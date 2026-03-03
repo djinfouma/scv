@@ -21,15 +21,16 @@
   <div id="timeline-container">
     <div class="timeline-header">
       <span>Timeline</span>
-      <span id="current-year-display">2027</span> 
+      <span id="current-year-display">2026</span> 
     </div>
-    <input type="range" id="yearSlider" min="1866" max="2027" value="2027" step="1">
+    <input type="range" id="yearSlider" min="1989" max="2026" value="2026" step="1">
     <div class="timeline-years">
-      <span>1866</span>
-      <span>1900</span>
-      <span>1950</span>
+      <span>1990</span>
+      <span>1995</span>
       <span>2000</span>
-      <span>2027</span>
+      <span>2005</span>
+      <span>2015</span>
+      <span>2026</span>
     </div>
   </div>
 
@@ -43,6 +44,7 @@
       <div class="map-buttons-container">
         <button id="earthquakeToggle" class="map-button">Show Earthquakes (Real-time)</button>
         <button id="cycloneToggle" class="map-button">Show Cyclones (Active)</button>
+        <button id="cableListToggle" class="map-button">Show All Cables</button>
       </div>
     </div>
 
@@ -58,6 +60,13 @@
       <h3>Cables at Risk</h3>
       <p class="sidebar-subtitle">Based on active cyclones</p>
       <ul id="cyclone-risk-list"></ul>
+    </div>
+
+    <!-- Sidebar lista cavi -->
+    <div id="cablelist-sidebar" class="sidebar cablelist-sidebar">
+      <h3>All Cables</h3>
+      <p class="sidebar-subtitle">Click on a cable to zoom in</p>
+      <ul id="cable-list"></ul>
     </div>
 
   </div>

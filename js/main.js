@@ -174,6 +174,64 @@ function updateCycloneRiskList(riskList, cables, allCableLayers, map, resetMap, 
     }
 }
 
+//Funzione per aggiornare la lista di tutti i cavi 
+function updateAllCablesList(cableListElement, cables, allCableLayers, map, resetMap, getCorrectBounds) {
+    cableListElement.innerHTML = ""; //Pulisce la lista
+
+    if (cables.length > 0) {
+        //Estrai i nomi unici usando un Set
+        const uniqueCableNames = [...new Set(cables.map(c => c.properties.displayName))];
+        
+        //Ordina i nomi alfabeticamente
+        const sortedNames = uniqueCableNames.sort((a, b) => a.localeCompare(b));
+
+        sortedNames.forEach(cableName => {
+            const li = document.createElement("li");
+            li.textContent = cableName;
+
+            li.onclick = () => {
+                //Trova TUTTI i layer che corrispondono a questo nome
+                const targets = allCableLayers.filter(l => l.feature.properties.displayName === cableName);
+
+                if (targets.length > 0) {
+                    //Resetta la mappa
+                    resetMap();
+
+                    //Opacizza tutti i cavi tranne i target
+                    allCableLayers.forEach(l => {
+                        if (l.setStyle && !targets.includes(l)) {
+                            l.setStyle({ opacity: 0.1 });
+                        }
+                    });
+
+                    //Evidenzia TUTTI i segmenti del cavo selezionato
+                    targets.forEach(t => {
+                        t.setStyle({
+                            color: '#1F9D8A',
+                            weight: 6,
+                            opacity: 1,
+                            interactive: true
+                        });
+                        t.bringToFront();
+                    });
+
+                    //Centra la mappa sul primo segmento del cavo
+                    const boundInfo = getCorrectBounds(targets[0]);
+                    if (boundInfo.isWide) {
+                        map.setView(boundInfo.center, 3);
+                    } else {
+                        map.fitBounds(boundInfo.bounds, { padding: [50, 50] });
+                    }
+                    targets[0].openPopup();
+                }
+            };
+            cableListElement.appendChild(li);
+        });
+    } else {
+        cableListElement.innerHTML = "<li>No cables data available</li>";
+    }
+}
+
 //Funzione principale
 async function init() {
     
@@ -191,8 +249,8 @@ async function init() {
             radius: 10,
             color: '#00f2fe',
             fillColor: '#00c6ff',
-            fillOpacity: 0.7,
-            weight: 2
+            fillOpacity: 0.4,
+            weight: 1
         }).bindPopup(`<b>Storm: ${cy.name}</b><br>Basin: ${cy.basin}<br>Max Wind: ${cy.wind} kts`);
         
         cycloneLayer.addLayer(marker);
@@ -470,6 +528,37 @@ async function init() {
 
             earthquakeSidebar.style.display = "none"; //Nascondi sidebar
             resetMap(); //Ripristina colori originali
+            setTimeout(() => map.invalidateSize(), 100);
+        }
+    });
+
+    //Gestione toggle lista cavi
+    const cableListToggle = document.getElementById("cableListToggle");
+    const cableListSidebar = document.getElementById("cablelist-sidebar");
+    const cableListElement = document.getElementById("cable-list");
+    let cableListVisible = false;
+
+    cableListToggle.addEventListener("click", () => {
+        cableListVisible = !cableListVisible;
+
+        if (cableListVisible) {
+            
+            updateAllCablesList(cableListElement, cables, allCableLayers, map, resetMap, getCorrectBounds); //Popola la lista con i dati attuali
+
+            //Mostra la sidebar
+            cableListSidebar.style.display = "flex";
+            cableListToggle.style.background = "#1F9D8A"; //Cambia colore del pulsante (verde)
+            cableListToggle.innerText = "Hide Cable List";
+
+            map.invalidateSize();
+
+        } else {
+            //Nasconde la sidebar
+            cableListSidebar.style.display = "none";
+            cableListToggle.style.background = "#0D3B66"; //Torna al colore di default
+            cableListToggle.innerText = "Show All Cables";
+
+            resetMap(); //Ripristina lo stato originale della mappa (utile se si era cliccato su un cavo)
             setTimeout(() => map.invalidateSize(), 100);
         }
     });

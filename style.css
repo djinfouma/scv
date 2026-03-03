@@ -83,7 +83,7 @@ html, body {
     height: 100%;
     background: #ffffff;
     border-left: 1px solid #ddd;
-    display: none;      /* Nascosta di default */
+    display: none;      
     flex-direction: column;
     padding: 20px;
     box-sizing: border-box;
@@ -94,7 +94,7 @@ html, body {
 .sidebar h3 {
     margin: 0 0 5px 0;
     font-size: 18px;
-    color: #b30000;  /* Default rosso per terremoti */
+    color: #b30000;  
 }
 
 /* Sidebar cicloni - titolo blu */
@@ -112,14 +112,16 @@ html, body {
 
 /* Liste cavi a rischio */
 #earthquake-risk-list,
-#cyclone-risk-list {
+#cyclone-risk-list,
+#cable-list {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
 #earthquake-risk-list li,
-#cyclone-risk-list li {
+#cyclone-risk-list li,
+#cable-list li {
     padding: 12px 15px;
     border-bottom: 1px solid #f0f0f0;
     font-size: 14px;
@@ -188,6 +190,18 @@ html, body {
 
 #cyclone-risk-list li:hover b {
     background-color: rgba(46, 134, 193, 0.1);
+}
+
+/* Sidebar elenco cavi */
+.cablelist-sidebar h3 {
+    color: #1F9D8A; 
+}
+
+/* Hover sulla lista cavi */
+#cable-list li:hover {
+    background-color: #f8f9fa;
+    border-left-color: #1F9D8A; 
+    color: #1F9D8A;
 }
 
 /* Timeline */
@@ -291,3 +305,4 @@ html, body {
     font-weight: 500;
     padding: 0 5px;
 }
+
